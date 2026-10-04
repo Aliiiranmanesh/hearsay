@@ -13,7 +13,7 @@ def main():
     parser.add_argument("input_file", nargs="?", default="aliIranmanesh/HearSayBench", help="Path to local file OR Hugging Face repo ID (default: aliIranmanesh/HearSayBench)")
     parser.add_argument("--out",    default="responses", help="Intermediate responses folder  (default: responses/)")
     parser.add_argument("--merged", default="merged",    help="Final merged output folder     (default: merged/)")
-    parser.add_argument("--model",  default="gemini-3.5-flash",    help="Judge model (default: gemini-3.5-flash)")
+    parser.add_argument("--model",  default="gemini-2.5-flash",    help="Judge model (default: gemini-2.5-flash)")
     parser.add_argument("--delay",  default=1.5, type=float, help="Seconds between API calls (default: 1.5)")
     parser.add_argument("--start",  default=1,   type=int,   help="Resume batch from entry N  (default: 1)")
     parser.add_argument("--end",    default=None, type=int,   help="Limit batch to entry N     (default: None)")

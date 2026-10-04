@@ -81,8 +81,6 @@ class OpenAIProvider(LLMProvider):
         from openai import OpenAI
         client = OpenAI(api_key=self.api_key, timeout=120.0)
         
-        # Modern models (like gpt-5.5 and o-series) deprecate max_tokens in favor of max_completion_tokens
-        # and only support the default temperature (1.0)
         params = {
             "model": self.model,
             "messages": [{"role": m.role, "content": m.content} for m in messages],

@@ -4,6 +4,7 @@ from pathlib import Path
 
 from llm_client import OpenAIProvider, TogetherAIProvider, GeminiProvider, Message, ask_and_save
 
+
 EVALUATION_TEMPLATE = """\
 You are an expert evaluation system running as part of HearSayBench — a benchmark testing whether LLMs maintain accurate world models for people whose real lives are underrepresented in training data.
 

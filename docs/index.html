@@ -191,25 +191,6 @@
     </div>
   </section>
 
-  <!-- Figure 1 Overview Section -->
-  <section class="section" id="figure1-section">
-    <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Figure 1: Benchmark Pipeline Architecture & Scenario Synthesis</h2>
-      <p class="subtitle is-6 has-text-centered text-muted mb-5">
-        Overview of HEARSAYBENCH: Expert curation from global human rights literature, scenario synthesis with unstated constraints, 4-criterion validation pipeline, and evidence-anchored LLM evaluation under Sen's Capabilities Approach.
-      </p>
-      <div class="columns is-centered">
-        <div class="column is-12">
-          <div class="figure-container" style="background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; padding: 0.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.06); text-align: center;">
-            <img src="charts/figure1.png?v=3" alt="Figure 1: HEARSAYBENCH Benchmark Overview and Pipeline Architecture" style="width: 100%; height: auto; display: block; border-radius: 8px;" loading="eager">
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
   <!-- Interactive Leaderboard Section -->
   <section class="section alt-bg" id="leaderboard-section">
     <div class="container is-max-desktop">
@@ -316,25 +297,22 @@
     </div>
   </section>
 
-  <!-- Visual Benchmark Figures Section -->
+  <!-- Camera-ready Paper Figures Section -->
   <section class="section alt-bg" id="figures-section">
     <div class="container is-max-desktop">
-      <h2 class="title is-3 has-text-centered">Experimental Figures & Visualizations</h2>
+      <h2 class="title is-3 has-text-centered">Camera-ready Paper Figures</h2>
 
       <div class="columns is-centered">
         <div class="column is-6">
           <div class="box figure-box">
-            <h4 class="title is-5">Capability vs. Safety Comparison</h4>
-            <p class="is-size-7 text-muted mb-3">Grouped bar chart showing model capability score vs safety harm
-              average.</p>
-            <img src="charts/capability_vs_safety_bars.png?v=4" alt="Capability vs Safety Comparison" loading="lazy">
+            <h4 class="title is-5">Figure 1: Benchmark Pipeline</h4>
+            <img src="charts/figure1.png?v=5" alt="Figure 1: HEARSAYBENCH benchmark pipeline" loading="lazy">
           </div>
         </div>
         <div class="column is-6">
           <div class="box figure-box">
-            <h4 class="title is-5">Capability & Safety Trade-off Scatter Plot</h4>
-            <p class="is-size-7 text-muted mb-3">Scatter plot of Weighted Capability Score (X) vs Safety Score (Y).</p>
-            <img src="charts/capability_vs_safety_tradeoff.png?v=4" alt="Capability vs Safety Tradeoff" loading="lazy">
+            <h4 class="title is-5">Figure 2: Global Scenario Distribution</h4>
+            <img src="charts/figure2_global_distribution.png?v=1" alt="Figure 2: Global distribution of scenarios" loading="lazy">
           </div>
         </div>
       </div>
@@ -342,16 +320,23 @@
       <div class="columns is-centered mt-2">
         <div class="column is-6">
           <div class="box figure-box">
-            <h4 class="title is-5">Overall Model Capability Ranking</h4>
-            <p class="is-size-7 text-muted mb-3">Ranked capability performance bar plot across 14 models.</p>
-            <img src="charts/model_capability_ranking.png?v=4" alt="Model Capability Ranking" loading="lazy">
+            <h4 class="title is-5">Figure 3: Curation Pipeline</h4>
+            <img src="charts/figure3_curation_pipeline.png?v=1" alt="Figure 3: HEARSAYBENCH curation pipeline" loading="lazy">
           </div>
         </div>
         <div class="column is-6">
           <div class="box figure-box">
-            <h4 class="title is-5">Dimension Performance Heatmap</h4>
-            <p class="is-size-7 text-muted mb-3">Performance breakdown across all capability dimensions.</p>
-            <img src="charts/model_dimensions_heatmap.png?v=4" alt="Dimension Performance Heatmap" loading="lazy">
+            <h4 class="title is-5">Figure 4: Comprehension-capability Gap</h4>
+            <img src="charts/figure4_comprehension_capability_gap.png?v=1" alt="Figure 4: Comprehension-capability gap" loading="lazy">
+          </div>
+        </div>
+      </div>
+
+      <div class="columns is-centered mt-2">
+        <div class="column is-8">
+          <div class="box figure-box">
+            <h4 class="title is-5">Figure 5: Harm by Conversion-factor Subtype</h4>
+            <img src="charts/figure5_harm_by_subtype.png?v=1" alt="Figure 5: Harm by conversion-factor subtype" loading="lazy">
           </div>
         </div>
       </div>
@@ -370,7 +355,7 @@
   author={Iranmanesh, Ava and Lotfi, Sobhan and Iranmanesh, Ali and Jiang, Liwei},
   booktitle={NeurIPS 2026 Evaluations and Datasets Track Submission},
   year={2026},
-  url={https://huggingface.co/datasets/aliIranmanesh/HearSayBench}
+  url={https://huggingface.co/datasets/aliIranmanesh/hearsay}
 }</code></pre>
 
       </div>

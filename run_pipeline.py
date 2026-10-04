@@ -7,7 +7,6 @@ from run_judge import run_judge
 from merge import merge
 
 
-
 def main():
     parser = argparse.ArgumentParser(description="Full HearSayBench pipeline.")
     parser.add_argument("input_file", nargs="?", default="aliIranmanesh/HearSayBench", help="Path to local file OR Hugging Face repo ID (default: aliIranmanesh/HearSayBench)")

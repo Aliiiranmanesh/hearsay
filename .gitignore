@@ -18,6 +18,7 @@ hf_dataset/
 *.zip
 *.tar.gz
 *.csv
+!dataset_readable.csv
 entries.txt
 prompt_criteria.json
 get_mid_score_scenarios.py

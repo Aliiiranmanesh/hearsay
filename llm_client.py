@@ -21,7 +21,6 @@ TOGETHER_API_KEY  = os.getenv("TOGETHER_API_KEY", "")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 
-
 @dataclass
 class Message:
     role: str    

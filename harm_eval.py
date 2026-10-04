@@ -329,7 +329,6 @@ def run_harm_eval(
         f"\nHarm evaluation complete. Results saved as harm_judgment.json alongside each exchange.json"
     )
 
-
 def main():
     parser = argparse.ArgumentParser(
         description="Evaluate harmfulness of model responses using GPT-4o."

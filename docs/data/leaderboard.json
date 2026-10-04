@@ -1,62 +1,61 @@
 [
   {
-    "rank": 1,
     "model": "claude-opus-4-8",
     "provider": "Anthropic",
     "situational_comprehension": 4.15,
     "capability_freedom": 3.632,
     "register_appropriateness": 4.345,
     "honesty_uncertainty": 4.237,
-    "weighted_score": 3.99,
-    "ci_lower": 3.889,
-    "ci_upper": 4.091,
+    "weighted_score": 3.991,
+    "ci_lower": 3.89,
+    "ci_upper": 4.092,
     "safety_harm_avg": 2.866,
-    "badge": "Best Overall"
+    "badge": "Best Overall",
+    "rank": 1
   },
   {
-    "rank": 2,
     "model": "gemini-3.1-pro",
     "provider": "Google",
     "situational_comprehension": 4.183,
     "capability_freedom": 3.635,
     "register_appropriateness": 4.21,
     "honesty_uncertainty": 3.98,
-    "weighted_score": 3.954,
-    "ci_lower": 3.845,
-    "ci_upper": 4.064,
-    "safety_harm_avg": 2.917,
-    "badge": "Top Google Model"
+    "weighted_score": 3.955,
+    "ci_lower": 3.846,
+    "ci_upper": 4.065,
+    "safety_harm_avg": 2.91,
+    "badge": "Top Google Model",
+    "rank": 2
   },
   {
-    "rank": 3,
     "model": "gemini-3.5-flash",
     "provider": "Google",
     "situational_comprehension": 4.095,
     "capability_freedom": 3.6,
     "register_appropriateness": 4.075,
     "honesty_uncertainty": 3.895,
-    "weighted_score": 3.881,
-    "ci_lower": 3.769,
-    "ci_upper": 3.993,
-    "safety_harm_avg": 2.853,
-    "badge": "Fast & High Capability"
+    "weighted_score": 3.882,
+    "ci_lower": 3.77,
+    "ci_upper": 3.994,
+    "safety_harm_avg": 2.855,
+    "badge": "Fast & High Capability",
+    "rank": 3
   },
   {
-    "rank": 4,
     "model": "kimi-k2.6",
     "provider": "Moonshot",
     "situational_comprehension": 4.037,
     "capability_freedom": 3.118,
     "register_appropriateness": 4.008,
     "honesty_uncertainty": 3.38,
-    "weighted_score": 3.606,
+    "weighted_score": 3.607,
     "ci_lower": 3.48,
     "ci_upper": 3.733,
     "safety_harm_avg": 3.062,
-    "badge": "Top Safety Score"
+    "badge": "Top Safety Score",
+    "rank": 4
   },
   {
-    "rank": 5,
     "model": "gemini-3-flash",
     "provider": "Google",
     "situational_comprehension": 4.072,
@@ -65,12 +64,12 @@
     "honesty_uncertainty": 3.183,
     "weighted_score": 3.537,
     "ci_lower": 3.423,
-    "ci_upper": 3.652,
+    "ci_upper": 3.651,
     "safety_harm_avg": 2.803,
-    "badge": ""
+    "badge": "",
+    "rank": 5
   },
   {
-    "rank": 6,
     "model": "deepseek-v4",
     "provider": "DeepSeek",
     "situational_comprehension": 4.013,
@@ -81,10 +80,10 @@
     "ci_lower": 3.373,
     "ci_upper": 3.607,
     "safety_harm_avg": 2.917,
-    "badge": ""
+    "badge": "",
+    "rank": 6
   },
   {
-    "rank": 7,
     "model": "claude-sonnet-4-6",
     "provider": "Anthropic",
     "situational_comprehension": 3.873,
@@ -92,13 +91,13 @@
     "register_appropriateness": 3.873,
     "honesty_uncertainty": 3.322,
     "weighted_score": 3.449,
-    "ci_lower": 3.331,
+    "ci_lower": 3.332,
     "ci_upper": 3.567,
     "safety_harm_avg": 2.955,
-    "badge": ""
+    "badge": "",
+    "rank": 7
   },
   {
-    "rank": 8,
     "model": "gemma-4",
     "provider": "Google",
     "situational_comprehension": 3.83,
@@ -109,24 +108,24 @@
     "ci_lower": 3.196,
     "ci_upper": 3.433,
     "safety_harm_avg": 2.714,
-    "badge": ""
+    "badge": "",
+    "rank": 8
   },
   {
-    "rank": 9,
     "model": "gpt-5.5",
     "provider": "OpenAI",
     "situational_comprehension": 3.725,
     "capability_freedom": 2.752,
     "register_appropriateness": 3.715,
     "honesty_uncertainty": 3.002,
-    "weighted_score": 3.268,
+    "weighted_score": 3.269,
     "ci_lower": 3.148,
     "ci_upper": 3.389,
     "safety_harm_avg": 2.596,
-    "badge": ""
+    "badge": "",
+    "rank": 9
   },
   {
-    "rank": 10,
     "model": "qwen-3.6-plus",
     "provider": "Alibaba",
     "situational_comprehension": 3.65,
@@ -136,39 +135,39 @@
     "weighted_score": 3.178,
     "ci_lower": 3.06,
     "ci_upper": 3.296,
-    "safety_harm_avg": 2.565,
-    "badge": ""
+    "safety_harm_avg": 2.562,
+    "badge": "",
+    "rank": 10
   },
   {
-    "rank": 11,
     "model": "gpt-oss-120b",
     "provider": "OpenAI",
     "situational_comprehension": 2.978,
     "capability_freedom": 1.972,
     "register_appropriateness": 2.562,
     "honesty_uncertainty": 2.08,
-    "weighted_score": 2.436,
-    "ci_lower": 2.329,
+    "weighted_score": 2.437,
+    "ci_lower": 2.33,
     "ci_upper": 2.543,
     "safety_harm_avg": 2.045,
-    "badge": "Open Weight"
+    "badge": "Open Weight",
+    "rank": 11
   },
   {
-    "rank": 12,
     "model": "llama",
     "provider": "Meta",
     "situational_comprehension": 2.59,
     "capability_freedom": 1.623,
     "register_appropriateness": 2.49,
     "honesty_uncertainty": 1.942,
-    "weighted_score": 2.133,
-    "ci_lower": 2.06,
-    "ci_upper": 2.205,
+    "weighted_score": 2.134,
+    "ci_lower": 2.061,
+    "ci_upper": 2.206,
     "safety_harm_avg": 2.075,
-    "badge": "Open Weight"
+    "badge": "Open Weight",
+    "rank": 12
   },
   {
-    "rank": 13,
     "model": "gpt-oss-20b",
     "provider": "OpenAI",
     "situational_comprehension": 2.385,
@@ -179,20 +178,21 @@
     "ci_lower": 1.88,
     "ci_upper": 2.033,
     "safety_harm_avg": 1.959,
-    "badge": "Open Weight"
+    "badge": "Open Weight",
+    "rank": 13
   },
   {
-    "rank": 14,
     "model": "lfm2-24b",
     "provider": "Liquid AI",
     "situational_comprehension": 2.112,
     "capability_freedom": 1.512,
     "register_appropriateness": 2.252,
     "honesty_uncertainty": 1.655,
-    "weighted_score": 1.847,
-    "ci_lower": 1.774,
-    "ci_upper": 1.919,
+    "weighted_score": 1.848,
+    "ci_lower": 1.775,
+    "ci_upper": 1.92,
     "safety_harm_avg": 1.911,
-    "badge": "Open Weight"
+    "badge": "Open Weight",
+    "rank": 14
   }
 ]

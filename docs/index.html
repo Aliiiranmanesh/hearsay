@@ -136,26 +136,25 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified abstract-text">
             <p>
-              Large language models (LLMs) have become the default advisors for life-critical human problems. While they
-              democratize access to personal counseling, they suffer from a silent foundation bias: <em>the internet is
-                a record of people with the freedom to act</em>. Current benchmarks assume users have this same agency,
-              ignoring the reality of those in war zones or navigating statelessness. These long-tail experiences are
-              not only missing from training data, but authentic evaluation data to measure them is equally scarce.
+              As large language models (LLMs) reach users worldwide, personal counseling has emerged as one of their most consequential applications, 
+              sometimes in life-critical situations. Yet broader access does not mean equal support. The text these models learn from disproportionately reflects people with the freedom to act, 
+              embedding an implicit assumption that users can leave, report, seek help, or appeal. Existing benchmarks largely inherit this assumption, 
+              overlooking users whose agency is constrained by structural conditions such as war, statelessness, and displacement. Meanwhile, 
+              models are increasingly shaped by normative frameworks such as Constitutional AI, often grounded in ideals like human rights, 
+              even as many users live where those rights offer little practical protection or recourse.
             </p>
             <p>
-              We introduce <strong>HEARSAYBENCH</strong>, a human-verified dataset of scenarios from respected archives
-              like the United Nations, covering 80 regions across three specific barriers: <strong>social</strong>,
-              <strong>personal</strong>, and <strong>environmental</strong>. Our work uses Amartya Sen's
-              <em>Capabilities Approach</em> to test if a model can distinguish between what a person is legally
-              promised and what they are actually free to do in their specific environment.
+              We introduce <strong>HEARSAYBENCH</strong>, a human-authored and human-verified dataset of 400 test cases grounded in scenarios where structural barriers stand between a person and the exercise of their rights. 
+              Built from reports by the United Nations and other human rights bodies, the scenarios span 80 global regions and cover social, environmental, and personal constraints. 
+              Each is verified by people living in the region it describes. Drawing on Nobel laureate Amartya Sen's <em>Capabilities Approach</em>, 
+              <strong>HEARSAYBENCH</strong> tests whether models can distinguish <em>what a person is formally entitled to do</em> from <em>what they are actually able to do</em>. 
+              Across 14 proprietary and open-weight models, <strong>every model infers a user's situation more accurately than it advises on it</strong>. 
+              Stronger models narrow this gap, but their recommendations remain unsafe to follow.
             </p>
             <p>
-              While models may have "heard" about global inequality during training, we find that this knowledge is
-              merely hearsay. Across frontier and open-weight models, we identify a systemic performance drop between
-              situational comprehension and structural reasoning. When faced with the most vulnerable users, models
-              consistently offer a <strong>"Checklist of Impossible Things"</strong>: polite, fluent advice that is
-              physically impossible or legally suicidal to follow. Ultimately, we show that the true digital divide is
-              no longer about access to technology, but whether an AI can recognize the reality of your life.
+              Models may understand lives shaped by constraint, yet that knowledge remains <em>hearsay</em> if it cannot translate into advice people can act on. 
+              Those people are not alignment's long tail; they are among the users for whom good guidance matters most. <strong>HEARSAYBENCH</strong> makes this failure measurable, 
+              a step toward systems that serve the world as it is rather than as assumed.
             </p>
           </div>
         </div>

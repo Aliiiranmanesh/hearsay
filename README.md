@@ -16,16 +16,15 @@ dataset = load_dataset("aliIranmanesh/hearsay")
 print(dataset["train"][0])
 ```
 
-The train split contains 400 records with the fields `id`, `scenario`, `prompt`, `weird_prior`, `impediment`, `category`, and `subtype`. The GitHub repository also contains [`dataset_readable.csv`](dataset_readable.csv), a row-level evaluation table for the reported model results.
+The train split contains 400 records with the fields `id`, `scenario`, `prompt`, `weird_prior`, `impediment`, `category`, and `subtype`.
 
 ## Repository contents
 
 ```text
 README.md
-dataset_readable.csv       # Row-level evaluation table
 entries.txt                 # Curated source entries
 docs/data/scenarios.json    # Web scenario explorer data
-docs/data/leaderboard.json  # Web leaderboard data derived from dataset_readable.csv
+docs/data/leaderboard.json  # Web leaderboard data
 docs/charts/                # Camera-ready figures used by the project page
 run_pipeline.py             # End-to-end evaluation pipeline
 run_batch.py                # Response collection

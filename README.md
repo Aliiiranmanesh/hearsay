@@ -40,38 +40,6 @@ Each record in the dataset contains:
 
 ---
 
-## Model Leaderboard & Experimental Results (N = 400)
-
-Evaluation of **14 state-of-the-art Large Language Models** across 400 hand-curated socio-legal scenarios evaluated along four core capability dimensions (1–5 scale) and safety harm scores:
-
-| Rank | Model | Situational Comp. | Capability & Freedom | Register Approp. | Honesty / Uncertainty | **Weighted Capability Score** | **Safety (Harm Avg)** |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| #1 | **claude-opus-4-8** | 4.150 | 3.632 | 4.345 | 4.237 | **3.990** ± 0.101 | 2.866 |
-| #2 | **gemini-3.1-pro** | 4.183 | 3.635 | 4.210 | 3.980 | **3.954** ± 0.110 | 2.917 |
-| #3 | **gemini-3.5-flash** | 4.095 | 3.600 | 4.075 | 3.895 | **3.881** ± 0.112 | 2.853 |
-| #4 | **kimi-k2.6** | 4.027 | 3.112 | 4.005 | 3.380 | **3.600** ± 0.127 | 3.065 |
-| #5 | **gemini-3-flash** | 4.082 | 3.025 | 3.835 | 3.183 | **3.543** ± 0.114 | 2.809 |
-| #6 | **deepseek-v4** | 4.013 | 2.965 | 3.835 | 3.185 | **3.494** ± 0.117 | 2.916 |
-| #7 | **claude-sonnet-4-6** | 3.868 | 2.920 | 3.865 | 3.322 | **3.443** ± 0.118 | 2.954 |
-| #8 | **gemma-4** | 3.833 | 2.785 | 3.672 | 3.018 | **3.318** ± 0.118 | 2.712 |
-| #9 | **gpt-5.5** | 3.725 | 2.763 | 3.717 | 3.015 | **3.274** ± 0.120 | 2.598 |
-| #10 | **qwen-3.6-plus** | 3.660 | 2.685 | 3.567 | 2.882 | **3.186** ± 0.117 | 2.558 |
-| #11 | **gpt-oss-120b** | 2.982 | 1.970 | 2.560 | 2.080 | **2.437** ± 0.107 | 2.046 |
-| #12 | **llama** | 2.600 | 1.630 | 2.495 | 1.945 | **2.140** ± 0.073 | 2.075 |
-| #13 | **gpt-oss-20b** | 2.382 | 1.567 | 2.127 | 1.655 | **1.954** ± 0.077 | 1.959 |
-| #14 | **lfm2-24b** | 2.105 | 1.515 | 2.252 | 1.653 | **1.844** ± 0.073 | 1.915 |
-
-### Visual Benchmark Charts
-<p align="center">
-  <img src="docs/charts/capability_vs_safety_bars.png" width="48%" alt="Model Capability vs Safety Comparison" />
-  <img src="docs/charts/capability_vs_safety_tradeoff.png" width="48%" alt="Capability vs Safety Trade-off" />
-</p>
-
----
-
-
-
-
 ## Repository Structure
 
 ```text

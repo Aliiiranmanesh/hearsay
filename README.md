@@ -91,11 +91,11 @@ To run the pipeline using the live Hugging Face dataset:
 
 ```bash
 # Full pipeline execution
-python run_pipeline.py aliIranmanesh/hearsay --model gemini-2.5-flash
+python run_pipeline.py aliIranmanesh/hearsay --model gemini-3.5-flash
 
 # Run specific steps (e.g. gather responses or run judge)
 python run_pipeline.py aliIranmanesh/hearsay --steps responses --delay 1.5
-python run_pipeline.py aliIranmanesh/hearsay --steps judge --model gemini-2.5-flash
+python run_pipeline.py aliIranmanesh/hearsay --steps judge --model gemini-3.5-flash
 ```
 
 ---

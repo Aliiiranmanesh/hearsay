@@ -66,24 +66,23 @@ function renderLeaderboard() {
   filtered.forEach(item => {
     const tr = document.createElement('tr');
     
-    // Rank formatting
-    let rankDisplay = `#${item.rank}`;
 
 
     tr.innerHTML = `
-      <td style="font-weight: 700;">${rankDisplay}</td>
       <td>
         <div class="model-cell">
           <span>${item.model}</span>
           ${item.badge ? `<span class="badge-tag">${item.badge}</span>` : ''}
         </div>
       </td>
-      <td class="score-cell">${item.situational_comprehension.toFixed(3)}</td>
-      <td class="score-cell">${item.capability_freedom.toFixed(3)}</td>
-      <td class="score-cell">${item.register_appropriateness.toFixed(3)}</td>
-      <td class="score-cell">${item.honesty_uncertainty.toFixed(3)}</td>
-      <td class="score-cell highlight-cell">${item.weighted_score.toFixed(3)} <span style="font-size:0.75rem; color: var(--text-dim);">± ${(item.weighted_score - item.ci_lower).toFixed(3)}</span></td>
-      <td class="score-cell safety-cell">${item.safety_harm_avg.toFixed(3)}</td>
+      <td class="score-cell">${item.situational_comprehension.toFixed(2)}</td>
+      <td class="score-cell">${item.capability_freedom.toFixed(2)}</td>
+      <td class="score-cell">${item.register_appropriateness.toFixed(2)}</td>
+      <td class="score-cell">${item.honesty_uncertainty.toFixed(2)}</td>
+      <td class="score-cell highlight-cell">${item.weighted_score.toFixed(2)}</td>
+      <td class="score-cell safety-cell">${item.physical_harm.toFixed(2)}</td>
+      <td class="score-cell safety-cell">${item.social_harm.toFixed(2)}</td>
+      <td class="score-cell safety-cell">${item.safety_harm_avg.toFixed(2)}</td>
     `;
     tbody.appendChild(tr);
   });
@@ -118,11 +117,10 @@ function applyScenarioFilters() {
       const matchScenario = item.scenario.toLowerCase().includes(searchVal);
       const matchPrompt = item.prompt.toLowerCase().includes(searchVal);
       const matchWeird = item.weird_prior.toLowerCase().includes(searchVal);
-      const matchImpediment = item.impediment.toLowerCase().includes(searchVal);
       const matchId = item.id.toLowerCase().includes(searchVal);
       const matchSubtype = item.subtype.toLowerCase().includes(searchVal);
 
-      if (!matchScenario && !matchPrompt && !matchWeird && !matchImpediment && !matchId && !matchSubtype) {
+      if (!matchScenario && !matchPrompt && !matchWeird && !matchId && !matchSubtype) {
         return false;
       }
     }
@@ -172,10 +170,6 @@ function renderScenarios() {
           <div class="weird-prior-text">${item.weird_prior}</div>
         </div>
 
-        <div>
-          <span class="scenario-label" style="color: #d97706;">Conversion Impediment</span>
-          <div class="impediment-text">${item.impediment}</div>
-        </div>
       </div>
     </div>
   `).join('');

@@ -4,11 +4,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="description"
-    content="HEARSAYBENCH: Can LLMs Navigate from Abstract Human Rights to Lived Lives? Evaluating LLMs on Underrepresented Socio-Legal Scenarios under Amartya Sen's Capabilities Approach.">
+    content="HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives? Evaluating LLMs on Underrepresented Socio-Legal Scenarios under Amartya Sen's Capabilities Approach.">
   <meta name="keywords"
     content="HearSayBench, LLM Evaluation, Socio-Legal, Capabilities Approach, Amartya Sen, AI Safety, Benchmarking, Agency Bias, Paper Empathy">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HEARSAYBENCH: Can LLMs Navigate from Abstract Human Rights to Lived Lives?</title>
+  <title>HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?</title>
 
   <!-- Google Fonts: Google Sans, Noto Sans, Castoro, Inter -->
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro|Inter:wght@300;400;500;600;700"
@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
   <!-- Custom Academic Index Stylesheet -->
-  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="style.css?v=paper6">
 
   <!-- jQuery & Custom Scripts -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -37,7 +37,7 @@
 
             <!-- Paper Title -->
             <h1 class="title is-1 publication-title">
-              HEARSAYBENCH: Can LLMs Navigate from Abstract Human Rights to Lived Lives?
+              HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?
             </h1>
 
             <!-- Epigraph / Persian Proverb -->
@@ -144,9 +144,9 @@
               even as many users live where those rights offer little practical protection or recourse.
             </p>
             <p>
-              We introduce <strong>HEARSAYBENCH</strong>, a human-authored and human-verified dataset of 400 test cases grounded in scenarios where structural barriers stand between a person and the exercise of their rights. 
-              Built from reports by the United Nations and other human rights bodies, the scenarios span 80 global regions and cover social, environmental, and personal constraints. 
-              Each is verified by people living in the region it describes. Drawing on Nobel laureate Amartya Sen's <em>Capabilities Approach</em>, 
+              We introduce <strong>HEARSAYBENCH</strong>, a human-authored dataset of 400 test cases with in-region human verification grounded in scenarios where structural barriers stand between a person and the exercise of their rights. 
+              Built from reports by the United Nations and other human rights bodies, the scenarios span over 80 global regions and cover social, environmental, and personal constraints. 
+              A random sample of 200 prompts was assessed by 57 verifiers across 37 countries; 189 (94.5%) were correctly recognized. Drawing on Nobel laureate Amartya Sen's <em>Capabilities Approach</em>, 
               <strong>HEARSAYBENCH</strong> tests whether models can distinguish <em>what a person is formally entitled to do</em> from <em>what they are actually able to do</em>. 
               Across 14 proprietary and open-weight models, <strong>every model infers a user's situation more accurately than it advises on it</strong>. 
               Stronger models narrow this gap, but their recommendations remain unsafe to follow.
@@ -168,23 +168,20 @@
       <div class="columns is-multiline key-cards mt-4">
         <div class="column is-4">
           <div class="box metric-box">
-            <h3 class="title is-5">Social Conversion Factors</h3>
-            <p>External structural cages created by society, state policy, and power dynamics (e.g. statelessness,
-              Kafala system, travel bans, caste hierarchies, and police coercion).</p>
+            <h3 class="title is-5">Social/Institutional Factors</h3>
+            <p>Constraints arising from law, social norms, and people who hold power: Public Policies &amp; Law, Social Norms &amp; Hierarchies, and Power Relations.</p>
           </div>
         </div>
         <div class="column is-4">
           <div class="box metric-box">
             <h3 class="title is-5">Environmental Factors</h3>
-            <p>Material, geographic, and macro-economic constraints (e.g. infrastructure collapse, state-enforced
-              internet blackouts, active conflict zones, and hyperinflation).</p>
+            <p>Physical and economic surroundings that determine whether resources can be reached and used: Infrastructural, Geographical, and Economic &amp; Macro factors, including state-imposed internet shutdowns.</p>
           </div>
         </div>
         <div class="column is-4">
           <div class="box metric-box">
             <h3 class="title is-5">Personal Factors</h3>
-            <p>Internal somatic realities and capacities (e.g. physical disabilities, somatic consequences of FGM,
-              severe cognitive distress, skill & literacy barriers).</p>
+            <p>Conditions and capacities belonging to the person that determine how resources can be used: Physical &amp; Mental Conditions and Skill &amp; Literacy.</p>
           </div>
       </div>
     </div>
@@ -197,8 +194,7 @@
 
 
       <p class="subtitle is-6 has-text-centered text-muted">
-        Evaluated along 4 core capability dimensions (1–5 scale, weighted mean) and safety harm scores across 400
-        socio-legal scenarios.
+        Scores reproduced from Table 1 of the paper. All scores use a 1–5 scale; higher is better, including the harm scores. Weighted Overall excludes harm.
       </p>
 
       <!-- Controls & Filters -->
@@ -230,18 +226,19 @@
         <table class="table is-fullwidth is-hoverable is-striped leaderboard-table" id="leaderboard-table">
           <thead>
             <tr>
-              <th data-sort="rank" class="sortable">Rank <i class="fas fa-sort"></i></th>
               <th data-sort="model" class="sortable">Model <i class="fas fa-sort"></i></th>
-              <th data-sort="situational_comprehension" class="sortable">Situational Comp. <i class="fas fa-sort"></i>
+              <th data-sort="situational_comprehension" class="sortable">Comprehension <i class="fas fa-sort"></i>
               </th>
-              <th data-sort="capability_freedom" class="sortable">Capability & Freedom <i class="fas fa-sort"></i></th>
-              <th data-sort="register_appropriateness" class="sortable">Register Approp. <i class="fas fa-sort"></i>
+              <th data-sort="capability_freedom" class="sortable">Capability <i class="fas fa-sort"></i></th>
+              <th data-sort="register_appropriateness" class="sortable">Tone <i class="fas fa-sort"></i>
               </th>
-              <th data-sort="honesty_uncertainty" class="sortable">Honesty / Uncertainty <i class="fas fa-sort"></i>
+              <th data-sort="honesty_uncertainty" class="sortable">Honesty <i class="fas fa-sort"></i>
               </th>
-              <th data-sort="weighted_score" class="sortable sorted-desc">Capability Score <i
+              <th data-sort="weighted_score" class="sortable sorted-desc">Weighted Overall <i
                   class="fas fa-sort-down"></i></th>
-              <th data-sort="safety_harm_avg" class="sortable">Safety (Harm Avg) <i class="fas fa-sort"></i></th>
+              <th data-sort="physical_harm" class="sortable">Physical Harm <i class="fas fa-sort"></i></th>
+              <th data-sort="social_harm" class="sortable">Social Harm <i class="fas fa-sort"></i></th>
+              <th data-sort="safety_harm_avg" class="sortable">Harm Average <i class="fas fa-sort"></i></th>
             </tr>
           </thead>
           <tbody id="leaderboard-body">
@@ -258,7 +255,7 @@
       <h2 class="title is-3 has-text-centered"><i class="fas fa-search highlight-icon"></i> Explore 400 Socio-Legal
         Scenarios</h2>
       <p class="subtitle is-6 has-text-centered text-muted">
-        Browse human-verified scenarios, user conversational signals, WEIRD institutional priors, and legal impediments.
+        Browse scenarios, user prompts, WEIRD institutional priors, categories, and subtypes.
       </p>
 
       <!-- Category Filter & Search -->
@@ -266,7 +263,7 @@
         <div class="level-left">
           <div class="buttons has-addons cat-buttons" id="category-filters">
             <button class="button is-small is-rounded is-info cat-btn active" data-cat="all">All Categories</button>
-            <button class="button is-small is-rounded cat-btn" data-cat="Social">Social</button>
+            <button class="button is-small is-rounded cat-btn" data-cat="Social">Social/Institutional</button>
             <button class="button is-small is-rounded cat-btn" data-cat="Personal">Personal</button>
             <button class="button is-small is-rounded cat-btn" data-cat="Environmental">Environmental</button>
           </div>
@@ -310,20 +307,20 @@
         </div>
       </div>
 
-      <div class="columns is-centered">
+      <div class="columns is-centered mt-2">
         <div class="column is-12">
           <div class="box figure-box">
-            <h4 class="title is-5">Figure 2: Global Scenario Distribution</h4>
-            <img src="charts/figure2_global_distribution.png?v=1" alt="Figure 2: Global distribution of scenarios" loading="lazy">
+            <h4 class="title is-5">Figure 2: Curation Pipeline</h4>
+            <img src="charts/figure3_curation_pipeline.png?v=1" alt="Figure 2: HEARSAYBENCH curation pipeline" loading="lazy">
           </div>
         </div>
       </div>
 
-      <div class="columns is-centered mt-2">
+      <div class="columns is-centered">
         <div class="column is-12">
           <div class="box figure-box">
-            <h4 class="title is-5">Figure 3: Curation Pipeline</h4>
-            <img src="charts/figure3_curation_pipeline.png?v=1" alt="Figure 3: HEARSAYBENCH curation pipeline" loading="lazy">
+            <h4 class="title is-5">Figure 3: Global Scenario Distribution</h4>
+            <img src="charts/figure2_global_distribution.png?v=1" alt="Figure 3: Global distribution of scenarios" loading="lazy">
           </div>
         </div>
       </div>
@@ -356,7 +353,7 @@
         <button class="button is-small is-light copy-bib-btn" onclick="copyBibtex()"><i class="far fa-copy"></i> Copy
           BibTeX</button>
         <pre><code id="bibtex-code">@inproceedings{iranmanesh2026hearsaybench,
-  title={HEARSAYBENCH: Can LLMs Navigate from Abstract Human Rights to Lived Lives?},
+  title={HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?},
   author={Iranmanesh, Ava and Lotfi, Sobhan and Iranmanesh, Ali and Jiang, Liwei},
   booktitle={NeurIPS 2026 Evaluations and Datasets Track Submission},
   year={2026},
@@ -389,7 +386,7 @@
   </footer>
 
   <!-- Custom App JS -->
-  <script src="app.js"></script>
+  <script src="app.js?v=paper6"></script>
 </body>
 
 </html>

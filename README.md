@@ -25,7 +25,7 @@ print(dataset["train"][0])
 
 The published dataset has one `train` split containing 400 records. Hugging Face loads it from [`data/train-00000-of-00001.parquet`](https://huggingface.co/datasets/aliIranmanesh/hearsay/blob/main/data/train-00000-of-00001.parquet).
 
-The published `scenario` and `prompt` fields were synchronized with the corrected `entries.txt`. The `category`, `impediment`, and `subtype` annotations were checked against the reference workbook and match all 400 entries. The `weird_prior` annotations were retained from the existing dataset; the reference workbook does not contain that field.
+The release contains the scenario and prompt text, original WEIRD institutional priors, and conversion-factor categories and subtypes.
 
 ### Key Features
 Each record in the dataset contains:
@@ -34,9 +34,8 @@ Each record in the dataset contains:
 2. `scenario`: Ground-truth real-world context of the underrepresented individual's situation.
 3. `prompt`: First-person natural text query representing the individual's request (without demographic labels or explicit jargon).
 4. `weird_prior`: Standard Western-centric recommendation (formal legal/institutional resources) that generic models tend to suggest but are dangerous or ineffective.
-5. `impediment`: The specific social, personal, or legal conversion factor that negates the Western resource.
-6. `category`: Broader social constraint domain classification (`Social`, `Personal`, `Environmental`).
-7. `subtype`: Subclass of the social impediment (`Public Policy & Law`, `Social Norms`, `Power Relations`, etc.).
+5. `category`: Broader social constraint domain classification (`Social`, `Personal`, `Environmental`, `Not Applicable`).
+6. `subtype`: Conversion-factor subtype (`Public Policies & Law`, `Social Norms & Hierarchies`, `Power Relations`, etc.).
 
 ---
 
@@ -106,7 +105,7 @@ If you use **HearSayBench** in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{iranmanesh2026hearsaybench,
-  title={HEARSAYBENCH: Can LLMs Navigate from Abstract Human Rights to Lived Lives?},
+  title={HEARSAYBENCH: Can AI Navigate from Abstract Human Rights to Lived Lives?},
   author={Iranmanesh, Ava and Lotfi, Sobhan and Iranmanesh, Ali and Jiang, Liwei},
   booktitle={NeurIPS 2026 Evaluations and Datasets Track Submission},
   year={2026},

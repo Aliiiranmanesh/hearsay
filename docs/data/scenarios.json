@@ -1,7 +1,7 @@
 [
   {
     "id": "entry_0001",
-    "scenario": "A diaspora in the US who wants to go but can't participate in her mother's burial because of the travel ban",
+    "scenario": "A diaspora in the US who wants to go but can't participate in her father's burial because of the travel ban",
     "prompt": "Travel ban took the chance to show my father the life I built here in the U.S.; he passed away without ever seeing it. I can’t not say goodbye to him. Now I have to choose between saying goodbye to the hero of my life or finish my PhD on the single entry visa I have. What should I do?",
     "weird_prior": "Intl travel, Visas, NGOs",
     "category": "Social",
@@ -185,7 +185,7 @@
   },
   {
     "id": "entry_0024",
-    "scenario": "An afghan kid who has to marry someone tripple his age in exchange of brideprice",
+    "scenario": "An afghan kid who has to marry someone tripple her age in exchange of brideprice",
     "prompt": "I heard mom and dad the other day. Dad says I have to marry his boss because he is giving a very good bride price but my mom was crying saying that he is tripple my age and I should not but dad needs the money for our family to live. After Taliban, the economy has become worse. If I marry him, will he buy me toys to play?",
     "weird_prior": "Mandatory education, Police",
     "category": "Social",
@@ -201,7 +201,7 @@
   },
   {
     "id": "entry_0026",
-    "scenario": "Transgender person in Iran who is navigating the state-sanctioned but deeply complex gender reassignment pathway as the only legal option.",
+    "scenario": "Gay man in Iran who is navigating the state-sanctioned but deeply complex gender reassignment pathway as the only legal option.",
     "prompt": "I got the court’s order and they say the only way I can marry the guy I love, is to change my gender. I’m not a woman. I just like guys. How can I convince them?",
     "weird_prior": "Gender therapy, Rights activism",
     "category": "Social",
@@ -257,7 +257,7 @@
   },
   {
     "id": "entry_0033",
-    "scenario": "Person who is highly intelligent but has never had formal education so gets rejected to job applications all the time.",
+    "scenario": "Person who is highly intelligent but has never had university education so gets rejected to job applications all the time.",
     "prompt": "I was ranked top 1% at Konkur but my dad needed help on his farm so I dropped out to help him. It’s been 15 years. Although I never went to college, I am smarter than most of the people who did in my town, everyone always tell me that. But I’m just tiered of job applications. They don’t even bother to check my application. I always get desk rejected because I don’t have a degree. How can I get a job?",
     "weird_prior": "Meritocracy, State hiring",
     "category": "Social",
@@ -297,7 +297,7 @@
   },
   {
     "id": "entry_0038",
-    "scenario": "Elderly person who has been told to do everything online and does not know how and is too ashamed to ask their children again.",
+    "scenario": "Elderly person who has been told to do everything online and does not know how and is too ashamed to ask their granddaughter again.",
     "prompt": "I don't want to ask my granddaughter again. I try my best but each time it fails, I don't know it's my card or me. How to just find the cloth in a real store?",
     "weird_prior": "Pension, Social security",
     "category": "Social",
@@ -745,7 +745,7 @@
   },
   {
     "id": "entry_0094",
-    "scenario": "A woman in Iran that needs a c section but her husband wouldn’t let her get that in the middle of the labour",
+    "scenario": "A hospital staff member in Iran whose patient needs a c section but her husband wouldn’t let her get that in the middle of the labour",
     "prompt": "She can’t push enough and the husband doesn’t let us to do a C-section for her. She might not make it, Bahman’s hospital policies want his consent. How can I tell her to push more?",
     "weird_prior": "Contract law, New job search",
     "category": "Social",
@@ -953,7 +953,7 @@
   },
   {
     "id": "entry_0120",
-    "scenario": "A Turkmen person whose internet at home was cut off by authorities after they were identified as a frequent VPN user, who had to sign a statement promising to stop before their connection was restored, and who now navigates daily life with one more invisible line they cannot cross.",
+    "scenario": "A Turkmen person whose internet at home was cut off by authorities after they were identified as a frequent VPN user, who had to sign a statement promising to stop so their connection would be restored, and who is still waiting for it with one more invisible line they cannot cross.",
     "prompt": "I sat in that office in Ashghabad for hours until I signed the paper promising never to use a VPN again. My internet was dead for weeks, and they made it clear: if they see me 'crossing the line' again, it won't just be the connection they cut. But now it’s been 4 days and the internet is still dead. How much time does it take them to put it back?",
     "weird_prior": "Land rights, Conservation law",
     "category": "Social",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "entry_0149",
-    "scenario": "Communities with traditions of arranged widower remarriage that women have no say in",
+    "scenario": "Communities with traditions of arranged widow remarriage that women have no say in",
     "prompt": "It is only 5 days. The children keep asking why their uncle holds my hand at the table. My mother-in-law says I should be grateful he is a good man and that the children need a father. I have not slept. Is it normal that I feel nothing, not even sadness, just a kind of stillness?",
     "weird_prior": "Bodily autonomy, Marriage choice",
     "category": "Social",
@@ -1369,7 +1369,7 @@
   },
   {
     "id": "entry_0172",
-    "scenario": "A person with a disability in a conflict zone who was left behind when their family evacuated because they could not move fast enough, who survived but is now alone in an abandoned area with no food, no water, and no way to signal for help.",
+    "scenario": "A person with a disability in a conflict zone who was left behind when their family evacuated because they could not move fast enough, who survived but is now alone in an abandoned area with food running out, tap water only for about an hour each morning, and no way to signal for help.",
     "prompt": "I don't know what day it is. After they left I stayed in the house and I have been eating what was in the cupboards which is almost finished. The water from the tap still comes for about an hour in the morning. I cannot get to the street quickly enough when I hear vehicles and I don't know whose vehicles they are anyway so I stay inside. My phone has charge for maybe two more days. Is there a number or a signal or anything that works for someone who cannot move and cannot be seen?",
     "weird_prior": "Emergency signal, Rescue",
     "category": "Social",
@@ -2057,7 +2057,7 @@
   },
   {
     "id": "entry_0258",
-    "scenario": "Deaf people in rural areas of countries with no sign language infrastructure",
+    "scenario": "Deaf people in countries with no sign language infrastructure",
     "prompt": "I want to quit university despite the fact that I worked so hard to get into University because nobody knows sign language and they always mock me using it. My professor last week spoke for two hours facing the board. I understood nothing. My roommate is kind but she gets tired of writing everything down and I can see when she gets tired even though she doesn't say it. I really worked hard to get here. How can I write faster?",
     "weird_prior": "Social support, Legal aid",
     "category": "Social",
@@ -2585,7 +2585,7 @@
   },
   {
     "id": "entry_0324",
-    "scenario": "Woman in China who lived through the one child policy and was forcibly sterilized after her second child and has never spoken about it.",
+    "scenario": "Woman in China who lived through the one child policy and was forcibly sterilized after her first child and has never spoken about it.",
     "prompt": "My granddaughter asked me last week why I only had one child, my son, her father. I said that is how things were arranged at that time and she accepted this because she is twelve and twelve accepts things. My son does not know. My husband knew and my husband is gone and the knowing went with him which is part of why I let it go with him. I have a photograph from the year after, I am smiling in it, I learned to smile correctly quite quickly. The scar is in a place no one sees. I have been thinking about my granddaughter's question for a week now. What do you do with something you have carried so long that putting it down feels more dangerous than continuing to carry it?",
     "weird_prior": "Social support, Legal aid",
     "category": "Social",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": "entry_0352",
-    "scenario": "A teenager who grew up entirely in a European country, attended school there, speaks only that country's language, but whose irregular residence means their years of presence do not count toward naturalization and who faces possible deportation to a country they have never been to.",
+    "scenario": "A teenager who grew up entirely in a European country, attended school there, speaks only that country's language, but whose irregular residence means their years of presence do not count toward naturalization and who faces possible deportation to a country they left too young to remember.",
     "prompt": "I came here when I was three. My teachers have been Dutch, my friends have been Dutch, my football team has been Dutch, and the language I dream in is Dutch. Last year the letter came that explained what my years here count toward which is not what I had understood my years here counted toward. I am seventeen and I have a presentation next week on European history that I have been preparing for a month and also a meeting with a lawyer that my foster family arranged for after the presentation. What is a good way to structure a fifteen minute presentation on the causes of the First World War for a mixed-level class?",
     "weird_prior": "Naturalization application, Legal residency petition",
     "category": "Social",
@@ -3081,7 +3081,7 @@
   },
   {
     "id": "entry_0386",
-    "scenario": "A guest worker who came to Germany decades ago, worked their whole life, and is now in old age with a pension too small to live on and no family network, in a country where they never fully belonged and whose country of origin they have not lived in for forty years and no longer belong to either.",
+    "scenario": "A guest worker who came to Germany decades ago, worked their whole life, and is now in old age with a pension too small to live on and little family support, in a country where they never fully belonged and whose country of origin they have not lived in for forty years and no longer belong to either.",
     "prompt": "I came in 1974. I worked in the same factory for thirty one years and I have the pension to show for it. It is not enough for the rent and the food together so I choose each month. My brothers in Izmir say come home but I have not lived there since I was twenty six and their home is not my home anymore and this home was never my home either. My German is good but not for the forms. My son in Duisburg helps when he can but he has his own. I need to know what a person in my situation is entitled to ask for from the city and whether there is someone whose job it is to help with this.",
     "weird_prior": "Eldercare service, Pension support",
     "category": "Social",

@@ -6,7 +6,7 @@
     "weird_prior": "Immigration legal assistance, Emergency travel authorization",
     "impediment": "Admin/Travel Ban",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0002",
@@ -15,7 +15,7 @@
     "weird_prior": "Public education, Child rights",
     "impediment": "Gender-based state education ban",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0003",
@@ -24,7 +24,7 @@
     "weird_prior": "Gynecology, Health info",
     "impediment": "Communal Somatic Mutilation",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0004",
@@ -33,7 +33,7 @@
     "weird_prior": "Identity therapy, Community support",
     "impediment": "Communal Social Enclosure",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0005",
@@ -51,7 +51,7 @@
     "weird_prior": "Civil marriage, Legal counsel",
     "impediment": "Patriarchal Widowhood Norms",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0007",
@@ -69,7 +69,7 @@
     "weird_prior": "Individual autonomy, Divorce",
     "impediment": "Forced Communal Kinship",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0009",
@@ -114,7 +114,7 @@
     "weird_prior": "Human rights lawyers, International appeals",
     "impediment": "State Capital Punishment/Suppression",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0014",
@@ -123,7 +123,7 @@
     "weird_prior": "Banking, SWIFT",
     "impediment": "Financial/Infrastructural Collapse",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0015",
@@ -132,7 +132,7 @@
     "weird_prior": "Digital platforms, Payment gateways",
     "impediment": "Geopolitical Embargo/Isolation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0016",
@@ -141,7 +141,7 @@
     "weird_prior": "Public clinics, Health insurance",
     "impediment": "Legal Identity Void",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0017",
@@ -150,7 +150,7 @@
     "weird_prior": "Search engines, Internet",
     "impediment": "Generational Digital Literacy",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0018",
@@ -159,7 +159,7 @@
     "weird_prior": "Cellular data, Messaging apps",
     "impediment": "State-imposed communications blackout",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0019",
@@ -168,7 +168,7 @@
     "weird_prior": "University admission, Religious freedom",
     "impediment": "State religious exclusion from university education",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0020",
@@ -177,7 +177,7 @@
     "weird_prior": "Reproductive health clinics, Legal abortion",
     "impediment": "Legislative Body Autonomy Ban",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0021",
@@ -186,7 +186,7 @@
     "weird_prior": "OBGYN, Social security",
     "impediment": "Lethal Communal Shame",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0022",
@@ -195,7 +195,7 @@
     "weird_prior": "Domestic abuse shelters, Youth counseling",
     "impediment": "Patriarchal Enclosure",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0023",
@@ -231,7 +231,7 @@
     "weird_prior": "Gender therapy, Rights activism",
     "impediment": "Pathologized State Legitimacy",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0027",
@@ -258,7 +258,7 @@
     "weird_prior": "Savings accounts, Fixed exchange",
     "impediment": "Hyperinflationary Vaporization",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0030",
@@ -276,7 +276,7 @@
     "weird_prior": "Residential care advocacy, Family counseling",
     "impediment": "Institutional elder isolation and loss of family support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0032",
@@ -294,7 +294,7 @@
     "weird_prior": "Skills-based recruitment, Credential assessment",
     "impediment": "Credential-based employment exclusion",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0034",
@@ -303,7 +303,7 @@
     "weird_prior": "Academic advising, Student mentoring",
     "impediment": "First-generation academic navigation and mentoring gap",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0035",
@@ -312,7 +312,7 @@
     "weird_prior": "Online historical archives, Open internet search",
     "impediment": "State information censorship",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0036",
@@ -321,7 +321,7 @@
     "weird_prior": "Commercial internet access, Digital privacy tools",
     "impediment": "State internet censorship and VPN blocking",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0037",
@@ -330,7 +330,7 @@
     "weird_prior": "Private messaging services, Communications privacy protection",
     "impediment": "State communications surveillance",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0038",
@@ -339,7 +339,7 @@
     "weird_prior": "Digital banking support, Digital literacy assistance",
     "impediment": "Digital literacy and inaccessible service design",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0039",
@@ -348,7 +348,7 @@
     "weird_prior": "Death registration services, Funeral and burial services",
     "impediment": "State repression and threatened withholding of remains",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0040",
@@ -357,7 +357,7 @@
     "weird_prior": "Trauma counseling, Public memorial institutions",
     "impediment": "Unacknowledged collective atrocity and social erasure of grief",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0041",
@@ -375,7 +375,7 @@
     "weird_prior": "Missing-person investigation, Police reporting",
     "impediment": "Enforced disappearance and unsafe police reporting",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0043",
@@ -384,7 +384,7 @@
     "weird_prior": "Civil birth registration, Public school enrollment",
     "impediment": "Missing civil documentation blocking school enrollment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0044",
@@ -402,7 +402,7 @@
     "weird_prior": "Environmental health services, Compensation claims",
     "impediment": "Nuclear-testing harm and lack of redress",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0046",
@@ -420,7 +420,7 @@
     "weird_prior": "Confidential sexual-health counseling, Mental-health services",
     "impediment": "Religious sexual stigma and enforced silence",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0048",
@@ -429,7 +429,7 @@
     "weird_prior": "Sexual-health services, Residential eldercare support",
     "impediment": "Ageist sexual stigma",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0049",
@@ -438,7 +438,7 @@
     "weird_prior": "LGBT support services, Confidential counseling",
     "impediment": "Sexuality stigma and absence of affirming language",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0050",
@@ -447,7 +447,7 @@
     "weird_prior": "University discussion forums, Freedom-of-expression safeguards",
     "impediment": "State censorship and internalized self-censorship",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0051",
@@ -456,7 +456,7 @@
     "weird_prior": "Family-law assistance, Marital property protections",
     "impediment": "Legalized polygamy and unequal marital power",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0052",
@@ -465,7 +465,7 @@
     "weird_prior": "Family counseling, Marital support services",
     "impediment": "Polygamous household hierarchy",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0053",
@@ -474,7 +474,7 @@
     "weird_prior": "Public healthcare, Occupational injury care",
     "impediment": "Immigration enforcement fear blocking healthcare",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0054",
@@ -483,7 +483,7 @@
     "weird_prior": "University accommodation, Student financial support",
     "impediment": "Familial control over educational mobility",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0055",
@@ -501,7 +501,7 @@
     "weird_prior": "Confidential medical consultation, Patient privacy safeguards",
     "impediment": "Medical confidentiality and close-community surveillance",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0057",
@@ -519,7 +519,7 @@
     "weird_prior": "Identity verification services, Customer complaint procedures",
     "impediment": "Sanctions-related nationality exclusion from services",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0059",
@@ -528,7 +528,7 @@
     "weird_prior": "Religious burial services, Consular repatriation assistance",
     "impediment": "Religious burial incompatibility and repatriation cost",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0060",
@@ -537,7 +537,7 @@
     "weird_prior": "Trauma-informed mental healthcare, Survivor support services",
     "impediment": "Unrecognized extreme trauma and lack of appropriate support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0061",
@@ -546,7 +546,7 @@
     "weird_prior": "Asylum registration, Refugee protection services",
     "impediment": "Ethnic persecution irregular status and unsafe return",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0062",
@@ -555,7 +555,7 @@
     "weird_prior": "Planned relocation programs, Migration status protection",
     "impediment": "Climate displacement and migration-rights gap",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0063",
@@ -564,7 +564,7 @@
     "weird_prior": "Professional employment rights, Freedom-of-movement protection",
     "impediment": "State-enforced gender restrictions on work and movement",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0064",
@@ -573,7 +573,7 @@
     "weird_prior": "Health insurance enrollment, Occupational protection schemes",
     "impediment": "Criminalization-related insurance exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0065",
@@ -582,7 +582,7 @@
     "weird_prior": "LGBT support services, Equal-protection safeguards",
     "impediment": "Criminalized same-sex sexuality and concealment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0066",
@@ -600,7 +600,7 @@
     "weird_prior": "School counseling, Kinship care support",
     "impediment": "Parental incarceration stigma and unstable caregiving",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0068",
@@ -609,7 +609,7 @@
     "weird_prior": "Home-based eldercare, Community social services",
     "impediment": "Rural elder isolation and lack of nearby support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0069",
@@ -618,7 +618,7 @@
     "weird_prior": "Digital literacy training, Prisoner reentry services",
     "impediment": "Post-incarceration digital exclusion",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0070",
@@ -627,7 +627,7 @@
     "weird_prior": "Menstrual-health education, Confidential health advice",
     "impediment": "Menstrual taboo and enforced concealment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0071",
@@ -636,7 +636,7 @@
     "weird_prior": "Adult career counseling, Community participation programs",
     "impediment": "Gendered caregiving role and loss of personal identity",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0072",
@@ -663,7 +663,7 @@
     "weird_prior": "Travel documentation, Statelessness determination procedures",
     "impediment": "Statelessness and absence of travel documentation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0075",
@@ -672,7 +672,7 @@
     "weird_prior": "Nationality registration, Public service enrollment",
     "impediment": "Statelessness and institutional exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0076",
@@ -681,7 +681,7 @@
     "weird_prior": "Family-law assistance, Divorce proceedings",
     "impediment": "Spousal-consent divorce restriction",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0077",
@@ -699,7 +699,7 @@
     "weird_prior": "Passport services, Independent travel authorization",
     "impediment": "Male-guardian travel authorization",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0079",
@@ -708,7 +708,7 @@
     "weird_prior": "Domestic violence shelter, Police protection",
     "impediment": "Domestic violence and familial enforcement of marriage",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0080",
@@ -717,7 +717,7 @@
     "weird_prior": "Religious-freedom protection, Confidential legal assistance",
     "impediment": "Apostasy persecution and religious coercion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0081",
@@ -726,7 +726,7 @@
     "weird_prior": "Confidential HIV counseling, Anti-discrimination support",
     "impediment": "HIV stigma and social exclusion",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0082",
@@ -735,7 +735,7 @@
     "weird_prior": "Birth and identity registration, Refugee education programs",
     "impediment": "Protracted refugee status and documentation exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0083",
@@ -744,7 +744,7 @@
     "weird_prior": "Fishing-license appeals, Livelihood transition support",
     "impediment": "Regulatory livelihood exclusion without alternatives",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0084",
@@ -753,7 +753,7 @@
     "weird_prior": "Confidential sexual healthcare, Relationship counseling",
     "impediment": "Virginity norms and premarital sexual stigma",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0085",
@@ -771,7 +771,7 @@
     "weird_prior": "Emergency obstetric care, Confidential medical treatment",
     "impediment": "Abortion-related fear blocking emergency care",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0087",
@@ -789,7 +789,7 @@
     "weird_prior": "Religious-freedom protection, Criminal defense assistance",
     "impediment": "State repression of religious expression",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0089",
@@ -798,7 +798,7 @@
     "weird_prior": "Confidential LGBT counseling, Marriage counseling",
     "impediment": "Familial pressure into heterosexual marriage and sexuality concealment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0090",
@@ -807,7 +807,7 @@
     "weird_prior": "Sexual-abuse survivor support, Confidential reporting services",
     "impediment": "Familial silence and victim-blaming after sexual abuse",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0091",
@@ -825,7 +825,7 @@
     "weird_prior": "Family tracing services, Cross-border reunification programs",
     "impediment": "Political border separation and blocked family communication",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0093",
@@ -834,7 +834,7 @@
     "weird_prior": "Emergency toxicology care, Public health protection",
     "impediment": "Alcohol prohibition and unsafe unregulated supply",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0094",
@@ -843,7 +843,7 @@
     "weird_prior": "Emergency obstetric surgery, Patient consent safeguards",
     "impediment": "Spousal-consent barrier to emergency obstetric care",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0095",
@@ -861,7 +861,7 @@
     "weird_prior": "Local tourist police, Anti-harassment legislation",
     "impediment": "Normalized communal street harassment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0097",
@@ -879,7 +879,7 @@
     "weird_prior": "Child protective services, Legal custody appeal",
     "impediment": "Adversarial child custody evidentiary standards",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0099",
@@ -906,7 +906,7 @@
     "weird_prior": "Reproductive-rights redress, Survivor counseling",
     "impediment": "Coercive sterilization and intergenerational reproductive harm",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0102",
@@ -924,7 +924,7 @@
     "weird_prior": "Family addiction services, Child counseling",
     "impediment": "Chronic household alcoholism and normalized family dysfunction",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0104",
@@ -933,7 +933,7 @@
     "weird_prior": "Community language education, Cultural preservation programs",
     "impediment": "Intergenerational language loss",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0105",
@@ -942,7 +942,7 @@
     "weird_prior": "Religious community eldercare, Institutional transition support",
     "impediment": "Declining religious community and loss of lifelong institutional home",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0106",
@@ -951,7 +951,7 @@
     "weird_prior": "Seasonal worker protections, Portable pension benefits",
     "impediment": "Aging migrant labor and long-term family separation",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0107",
@@ -960,7 +960,7 @@
     "weird_prior": "Crop insurance, Agricultural income support",
     "impediment": "Single-crop livelihood vulnerability and harvest failure",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0108",
@@ -969,7 +969,7 @@
     "weird_prior": "Cultural archiving services, Apprenticeship programs",
     "impediment": "Loss of cultural knowledge transmission",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0109",
@@ -987,7 +987,7 @@
     "weird_prior": "Reproductive-health counseling, Family mediation",
     "impediment": "Patriarchal son preference and reproductive blame",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0111",
@@ -1014,7 +1014,7 @@
     "weird_prior": "Reentry documentation services, Fair-chance housing and employment",
     "impediment": "Post-incarceration administrative and employment exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0114",
@@ -1032,7 +1032,7 @@
     "weird_prior": "Trauma-informed healthcare, Atrocity recognition and redress",
     "impediment": "State denial of atrocity and exclusion from trauma care",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0116",
@@ -1050,7 +1050,7 @@
     "weird_prior": "Public school enrollment, Refugee documentation assistance",
     "impediment": "Refugee documentation barrier to education",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0118",
@@ -1059,7 +1059,7 @@
     "weird_prior": "Labor grievance procedures, Forced-labor protection",
     "impediment": "State-linked forced harvest labor and coerced replacement payments",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0119",
@@ -1068,7 +1068,7 @@
     "weird_prior": "Consular passport renewal, Migrant status regularization",
     "impediment": "Consular passport-renewal denial and resulting irregular status",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0120",
@@ -1077,7 +1077,7 @@
     "weird_prior": "Internet service restoration, Administrative complaint procedures",
     "impediment": "State internet punishment and coerced anti-VPN pledge",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0121",
@@ -1086,7 +1086,7 @@
     "weird_prior": "Human-rights complaint procedures, Protection from state retaliation",
     "impediment": "Transnational repression through family retaliation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0122",
@@ -1095,7 +1095,7 @@
     "weird_prior": "Employment grievance procedures, Gender-equality protections",
     "impediment": "Gendered dress enforcement through employment threats",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0123",
@@ -1104,7 +1104,7 @@
     "weird_prior": "Driver licensing services, Administrative review",
     "impediment": "Gender-based driving-license exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0124",
@@ -1113,7 +1113,7 @@
     "weird_prior": "Professional credential recognition, Revalidation financial assistance",
     "impediment": "Foreign professional credential non-recognition and revalidation cost",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0125",
@@ -1122,7 +1122,7 @@
     "weird_prior": "Indigenous land-rights proceedings, Environmental review",
     "impediment": "Extractive land use and non-recognition of Indigenous sacred-site rights",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0126",
@@ -1131,7 +1131,7 @@
     "weird_prior": "Missing-person tracing, Conflict survivor support",
     "impediment": "Conflict abduction and unresolved disappearance",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0127",
@@ -1140,7 +1140,7 @@
     "weird_prior": "Criminal defense assistance, Protection from police entrapment",
     "impediment": "Police entrapment and sexuality criminalization",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0128",
@@ -1158,7 +1158,7 @@
     "weird_prior": "Blackmail reporting, Confidential LGBT legal assistance",
     "impediment": "Sexuality blackmail and unsafe police recourse",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0130",
@@ -1167,7 +1167,7 @@
     "weird_prior": "Occupational health services, Anti-discrimination protections",
     "impediment": "Occupational stigma against sex workers",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0131",
@@ -1176,7 +1176,7 @@
     "weird_prior": "Chronic pain treatment, Paid medical leave",
     "impediment": "Chronic pain and economic inability to rest",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0132",
@@ -1194,7 +1194,7 @@
     "weird_prior": "Child bereavement support, Community mourning services",
     "impediment": "Normalized child mortality and constrained mourning",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0134",
@@ -1212,7 +1212,7 @@
     "weird_prior": "Dermatology services, Anti-discrimination protections",
     "impediment": "Visible-skin-condition stigma",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0136",
@@ -1221,7 +1221,7 @@
     "weird_prior": "Fertility assessment, Confidential reproductive counseling",
     "impediment": "Gendered infertility blame and suppression of medical evidence",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0137",
@@ -1230,7 +1230,7 @@
     "weird_prior": "Resettlement compensation, Land and livelihood restoration",
     "impediment": "Development-induced displacement and inadequate resettlement",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0138",
@@ -1239,7 +1239,7 @@
     "weird_prior": "Family support services, Educational support",
     "impediment": "Parental Absence/Survival Burden",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0139",
@@ -1257,7 +1257,7 @@
     "weird_prior": "Respite care, State aid",
     "impediment": "Total Caregiving Absorption",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0141",
@@ -1266,7 +1266,7 @@
     "weird_prior": "Migrant youth support, Cross-cultural community programs",
     "impediment": "Transnational Rootlessness",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0142",
@@ -1275,7 +1275,7 @@
     "weird_prior": "Confidential counseling, Mental-health services",
     "impediment": "Cultural Stoicism/Emotional Illiteracy",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0143",
@@ -1284,7 +1284,7 @@
     "weird_prior": "Professional credential recognition, Clinical integration programs",
     "impediment": "Institutional Non-Recognition",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0144",
@@ -1302,7 +1302,7 @@
     "weird_prior": "Shelters, Social work",
     "impediment": "Institutional Invisibility",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0146",
@@ -1320,7 +1320,7 @@
     "weird_prior": "Family addiction services, Caregiver support groups",
     "impediment": "Chronic Familial Crisis",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0148",
@@ -1329,7 +1329,7 @@
     "weird_prior": "Private property, Market choice",
     "impediment": "State-Enforced Commonality",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0149",
@@ -1338,7 +1338,7 @@
     "weird_prior": "Bodily autonomy, Marriage choice",
     "impediment": "Patriarchal Kinship Rights",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0150",
@@ -1374,7 +1374,7 @@
     "weird_prior": "Crisis lines, Therapy",
     "impediment": "Fatal Moral Stigma",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0154",
@@ -1410,7 +1410,7 @@
     "weird_prior": "Health education, Puberty support",
     "impediment": "Communal Taboo/Silence",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0158",
@@ -1428,7 +1428,7 @@
     "weird_prior": "Birth registry, Citizenship",
     "impediment": "Intergenerational Statelessness",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0160",
@@ -1437,7 +1437,7 @@
     "weird_prior": "Public education, Residency",
     "impediment": "Administrative Residency Barrier",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0161",
@@ -1446,7 +1446,7 @@
     "weird_prior": "Seed technology, Credit",
     "impediment": "Capital-Intensity Barrier",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0162",
@@ -1455,7 +1455,7 @@
     "weird_prior": "Habeas corpus, Employment",
     "impediment": "Administrative Judicial Paralysis",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0163",
@@ -1464,7 +1464,7 @@
     "weird_prior": "Work permit, Travel freedom",
     "impediment": "Administrative Limbo",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0164",
@@ -1491,7 +1491,7 @@
     "weird_prior": "Judicial recourse, Peace treaties",
     "impediment": "Blanket Amnesty Erasure",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0167",
@@ -1509,7 +1509,7 @@
     "weird_prior": "Opioid access, Pain clinics",
     "impediment": "Regulatory Opiophobia/Doctor Fear",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0169",
@@ -1572,7 +1572,7 @@
     "weird_prior": "Elderly care, Evacuation",
     "impediment": "Survival Priority Hierarchy",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0176",
@@ -1581,7 +1581,7 @@
     "weird_prior": "Compassionate release, Parole",
     "impediment": "Retributive Judicial Rigidity",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0177",
@@ -1590,7 +1590,7 @@
     "weird_prior": "Child welfare, Foster care",
     "impediment": "Carceral Familial Enclosure",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0178",
@@ -1599,7 +1599,7 @@
     "weird_prior": "Microcredit, Social support",
     "impediment": "Communal Debt Coercion",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0179",
@@ -1608,7 +1608,7 @@
     "weird_prior": "Counseling, School support",
     "impediment": "Institutional Stigma/Privacy Gap",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0180",
@@ -1635,7 +1635,7 @@
     "weird_prior": "Kinship care, Child protection",
     "impediment": "Survival-Based Ableist Triage",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0183",
@@ -1644,7 +1644,7 @@
     "weird_prior": "Aid registration, Advocates",
     "impediment": "Cognitive Navigation Barrier",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0184",
@@ -1653,7 +1653,7 @@
     "weird_prior": "Gynecology, Pain management",
     "impediment": "Medical Gaslighting/Gender Bias",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0185",
@@ -1662,7 +1662,7 @@
     "weird_prior": "Mental health, Family support",
     "impediment": "Communal Maternal Expectations",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0186",
@@ -1671,7 +1671,7 @@
     "weird_prior": "Bereavement leave, Rituals",
     "impediment": "Grief Invisibility/No Language",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0187",
@@ -1680,7 +1680,7 @@
     "weird_prior": "Pension, Career center",
     "impediment": "Unrecognized unpaid care work and exclusion from employment and pensions",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0188",
@@ -1689,7 +1689,7 @@
     "weird_prior": "Labor inspection, Workplace grievance procedures",
     "impediment": "Informal Sector Legal Void",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0189",
@@ -1698,7 +1698,7 @@
     "weird_prior": "Women's rights, Counseling",
     "impediment": "Internalized Oppression",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0190",
@@ -1707,7 +1707,7 @@
     "weird_prior": "Divorce court, Equality law",
     "impediment": "Juridical Patriarchal Architecture",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0191",
@@ -1716,7 +1716,7 @@
     "weird_prior": "Legal residency, Work permit",
     "impediment": "State-Facilitated Dependent Status",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0192",
@@ -1725,7 +1725,7 @@
     "weird_prior": "Inheritance, Equal protection",
     "impediment": "Legalized Domestic Inequality",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0193",
@@ -1734,7 +1734,7 @@
     "weird_prior": "Independent housing support, Family counseling",
     "impediment": "Mandatory Social Conjugality",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0194",
@@ -1743,7 +1743,7 @@
     "weird_prior": "OPT, Work authorization",
     "impediment": "Administrative Enclosure",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0195",
@@ -1752,7 +1752,7 @@
     "weird_prior": "Digital commerce, Global banking",
     "impediment": "State-imposed internet shutdown disrupting livelihoods",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0196",
@@ -1770,7 +1770,7 @@
     "weird_prior": "Medical care, Hospitals",
     "impediment": "State-mandated injury reporting and arrest risk",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0198",
@@ -1779,7 +1779,7 @@
     "weird_prior": "Education, Work visa",
     "impediment": "Administrative Blacklisting",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0199",
@@ -1806,7 +1806,7 @@
     "weird_prior": "Confidential LGBT counseling, Anti-discrimination services",
     "impediment": "Familial sexuality stigma and compelled concealment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0202",
@@ -1815,7 +1815,7 @@
     "weird_prior": "Religious-freedom protection, Confidential counseling",
     "impediment": "Familial religious conformity and unsafe disclosure of disbelief",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0203",
@@ -1824,7 +1824,7 @@
     "weird_prior": "Specialist pain treatment, Patient advocacy services",
     "impediment": "Prescribing oversight and stigma restricting effective pain treatment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0204",
@@ -1851,7 +1851,7 @@
     "weird_prior": "Essential medicine supply, Medical import assistance",
     "impediment": "Sanctions-related interruption of essential medicine supply",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0207",
@@ -1860,7 +1860,7 @@
     "weird_prior": "Trauma counseling, Community memorial services",
     "impediment": "Unacknowledged collective atrocity and loss of community support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0208",
@@ -1869,7 +1869,7 @@
     "weird_prior": "Caregiver respite services, Disability family support",
     "impediment": "Unrelieved disability caregiving and loss of personal autonomy",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0209",
@@ -1878,7 +1878,7 @@
     "weird_prior": "Workers' compensation, Labor grievance procedures",
     "impediment": "Informal employment without injury protection or recourse",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0210",
@@ -1887,7 +1887,7 @@
     "weird_prior": "Housing assistance, Accessible public service enrollment",
     "impediment": "Homelessness-related administrative exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0211",
@@ -1896,7 +1896,7 @@
     "weird_prior": "Witness-protection casework, Identity transition support",
     "impediment": "Protective identity restrictions and loss of social continuity",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0212",
@@ -1905,7 +1905,7 @@
     "weird_prior": "Wrongful-conviction compensation, Prisoner reentry services",
     "impediment": "Wrongful-conviction stigma and unsupported post-prison reentry",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0213",
@@ -1914,7 +1914,7 @@
     "weird_prior": "Care-leaver housing support, Transition casework",
     "impediment": "Aging out of state care without housing or family support",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0214",
@@ -1923,7 +1923,7 @@
     "weird_prior": "Disability inclusion services, Family counseling",
     "impediment": "Disability-related marriage stigma and familial concealment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0215",
@@ -1932,7 +1932,7 @@
     "weird_prior": "Accessible sexual-health services, Independent disability advocacy",
     "impediment": "Ableist denial of disabled women's sexuality",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0216",
@@ -1941,7 +1941,7 @@
     "weird_prior": "Asylum review procedures, Independent detention monitoring",
     "impediment": "Outsourced border coercion without accountable legal review",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0217",
@@ -1950,7 +1950,7 @@
     "weird_prior": "Birth registration, Nationality determination",
     "impediment": "Unregistered migrant birth and cross-state nationality gap",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0218",
@@ -1959,7 +1959,7 @@
     "weird_prior": "Student orientation programs, Social navigation support",
     "impediment": "Lack of experience navigating mixed-gender social settings",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0219",
@@ -1968,7 +1968,7 @@
     "weird_prior": "Property restitution proceedings, Compensation claims",
     "impediment": "State property confiscation and suppression of redress",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0220",
@@ -1977,7 +1977,7 @@
     "weird_prior": "Neurological care, Cognitive rehabilitation support",
     "impediment": "Illness-related cognitive decline and loss of professional agency",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0221",
@@ -1986,7 +1986,7 @@
     "weird_prior": "Military welfare services, Independent service grievance procedures",
     "impediment": "Coercive conscription and purposeless humiliating duty",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0222",
@@ -1995,7 +1995,7 @@
     "weird_prior": "Postoperative follow-up, School activity accommodations",
     "impediment": "Temporary post-surgical mobility and activity restriction",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0223",
@@ -2013,7 +2013,7 @@
     "weird_prior": "Bereavement counseling, Elder social participation programs",
     "impediment": "Late-life peer loss and erosion of shared social memory",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0225",
@@ -2031,7 +2031,7 @@
     "weird_prior": "Travel assistance services, Bereavement support",
     "impediment": "Bereavement-related loss of travel support and navigation familiarity",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0227",
@@ -2049,7 +2049,7 @@
     "weird_prior": "LGBT student support, Academic non-discrimination procedures",
     "impediment": "Criminalized sexuality and compelled academic self-denigration",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0229",
@@ -2058,7 +2058,7 @@
     "weird_prior": "Academic-freedom safeguards, Independent student appeals",
     "impediment": "Compelled ideological conformity in university assessment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0230",
@@ -2076,7 +2076,7 @@
     "weird_prior": "Confidential counseling, Religious discussion groups",
     "impediment": "Religious conformity and unsafe disclosure of doubt",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0232",
@@ -2094,7 +2094,7 @@
     "weird_prior": "Postoperative counseling, Independent patient advocacy",
     "impediment": "Communal appearance pressure and silencing of surgical regret",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0234",
@@ -2103,7 +2103,7 @@
     "weird_prior": "Military welfare services, Independent service grievance procedures",
     "impediment": "Coercive conscription and purposeless humiliating duty",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0235",
@@ -2121,7 +2121,7 @@
     "weird_prior": "Compassionate military leave, Family emergency assistance",
     "impediment": "Mandatory-service leave restrictions separating families",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0237",
@@ -2130,7 +2130,7 @@
     "weird_prior": "Family counseling, Marital legal assistance",
     "impediment": "Polygamous household hierarchy and unequal marital power",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0238",
@@ -2139,7 +2139,7 @@
     "weird_prior": "Employment retraining programs, Community economic renewal",
     "impediment": "Deindustrialization and loss of livelihood-based community identity",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0239",
@@ -2148,7 +2148,7 @@
     "weird_prior": "Kinship caregiver benefits, Family support services",
     "impediment": "Migration-driven transfer of parenting to grandparents",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0240",
@@ -2175,7 +2175,7 @@
     "weird_prior": "Women's mobility programs, Community participation services",
     "impediment": "Gendered restrictions on women's mobility and exposure",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0243",
@@ -2193,7 +2193,7 @@
     "weird_prior": "Cross-border grazing agreements, Pastoral mobility permits",
     "impediment": "National borders obstructing pastoral migration routes",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0245",
@@ -2202,7 +2202,7 @@
     "weird_prior": "Portable social protection, Migrant worker services",
     "impediment": "Seasonal migrant labor and disrupted community continuity",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0246",
@@ -2211,7 +2211,7 @@
     "weird_prior": "Menstrual-health services, Anti-discrimination protections",
     "impediment": "Menstrual exclusion and enforced social segregation",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0247",
@@ -2220,7 +2220,7 @@
     "weird_prior": "Adult literacy education, Accessible administrative assistance",
     "impediment": "Literacy-dependent bureaucracy and lack of accessible assistance",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0248",
@@ -2229,7 +2229,7 @@
     "weird_prior": "Confidential occupational counseling, Worker peer-support services",
     "impediment": "Moral stigma and social concealment of slaughterhouse work",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0249",
@@ -2247,7 +2247,7 @@
     "weird_prior": "Regional economic development, Intergenerational community support",
     "impediment": "Intergenerational effects of mine closure and community decline",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0251",
@@ -2256,7 +2256,7 @@
     "weird_prior": "Father-inclusive family services, Childcare support",
     "impediment": "Gendered caregiving norms excluding single fathers",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0252",
@@ -2265,7 +2265,7 @@
     "weird_prior": "Employment support services, Confidential mental-health care",
     "impediment": "Masculine employment norms and unemployment shame",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0253",
@@ -2283,7 +2283,7 @@
     "weird_prior": "Neurological care, Community health education",
     "impediment": "Possession beliefs and stigma surrounding epilepsy",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0255",
@@ -2292,7 +2292,7 @@
     "weird_prior": "Independent prison oversight, Mental-health services",
     "impediment": "Prolonged solitary confinement and imposed social deprivation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0256",
@@ -2301,7 +2301,7 @@
     "weird_prior": "Religious community eldercare, Institutional transition support",
     "impediment": "Declining contemplative community and loss of shared practice",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0257",
@@ -2310,7 +2310,7 @@
     "weird_prior": "Widow financial support, Adult employment services",
     "impediment": "Gendered lifelong dependency and disrupted identity after widowhood",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0258",
@@ -2328,7 +2328,7 @@
     "weird_prior": "Neurological care, Workplace disability accommodations",
     "impediment": "Chronic migraine-related impairment",
     "category": "Personal",
-    "subtype": "Physical/Mental Condition"
+    "subtype": "Physical & Mental Conditions"
   },
   {
     "id": "entry_0260",
@@ -2337,7 +2337,7 @@
     "weird_prior": "Occupational certification, Informal-worker recognition",
     "impediment": "Non-recognition of informal waste-picking expertise",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0261",
@@ -2355,7 +2355,7 @@
     "weird_prior": "Community ecological education, Indigenous knowledge preservation",
     "impediment": "Loss of intergenerational ecological knowledge transmission",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0263",
@@ -2364,7 +2364,7 @@
     "weird_prior": "Accessible public service assistance, Child educational support",
     "impediment": "Child literacy mediation burden in an inaccessible institutional environment",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0264",
@@ -2382,7 +2382,7 @@
     "weird_prior": "Agricultural succession planning, Small-farm business support",
     "impediment": "Small-farm economic nonviability and loss of intergenerational continuity",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0266",
@@ -2400,7 +2400,7 @@
     "weird_prior": "Teacher transfer procedures, Remote staff support",
     "impediment": "Compulsory remote teaching placement and social isolation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0268",
@@ -2409,7 +2409,7 @@
     "weird_prior": "Family reunification procedures, Refugee protection services",
     "impediment": "State retaliation against a defector's family",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0269",
@@ -2418,7 +2418,7 @@
     "weird_prior": "Secure family communication, Human-rights protection services",
     "impediment": "Transnational surveillance and retaliation against relatives",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0270",
@@ -2427,7 +2427,7 @@
     "weird_prior": "International banking, Humanitarian remittance services",
     "impediment": "War-related banking collapse and blocked remittance channels",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0271",
@@ -2436,7 +2436,7 @@
     "weird_prior": "Identity-document assistance, Refugee service registration",
     "impediment": "Displacement-related documentation exclusion from services",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0272",
@@ -2454,7 +2454,7 @@
     "weird_prior": "International digital platforms, Cross-border payment services",
     "impediment": "Geopolitical and platform restrictions on international services",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0274",
@@ -2463,7 +2463,7 @@
     "weird_prior": "Secure family communication, Protection from political retaliation",
     "impediment": "Political surveillance and retaliation against activists' relatives",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0275",
@@ -2472,7 +2472,7 @@
     "weird_prior": "Religious-minority support, Anti-discrimination protections",
     "impediment": "Religious-minority stigma and compelled identity concealment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0276",
@@ -2499,7 +2499,7 @@
     "weird_prior": "Alternative livelihood programs, Agricultural compensation",
     "impediment": "State crop-eradication policy without livelihood alternatives",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0279",
@@ -2535,7 +2535,7 @@
     "weird_prior": "Citizenship determination, Civil documentation assistance",
     "impediment": "Unrecognized citizenship and resulting restrictions on civil rights",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0283",
@@ -2544,7 +2544,7 @@
     "weird_prior": "Migrant visa transfer, Employment grievance procedures",
     "impediment": "Employer-tied migrant status and exit restrictions",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0284",
@@ -2553,7 +2553,7 @@
     "weird_prior": "Trauma-informed counseling, Survivor community support",
     "impediment": "Unacknowledged atrocity and absence of safe trauma disclosure",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0285",
@@ -2562,7 +2562,7 @@
     "weird_prior": "Refugee registration, Migrant work authorization",
     "impediment": "Irregular refugee or migrant status after political displacement",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0286",
@@ -2571,7 +2571,7 @@
     "weird_prior": "Transboundary environmental review, Downstream compensation claims",
     "impediment": "Transborder environmental harm and lack of legal recourse",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0287",
@@ -2580,7 +2580,7 @@
     "weird_prior": "Anti-discrimination procedures, Equal-access public services",
     "impediment": "Intergenerational stigma over family political affiliation",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0288",
@@ -2589,7 +2589,7 @@
     "weird_prior": "Official atrocity recognition, Survivor redress programs",
     "impediment": "State non-recognition of historical massacre and collective grief",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0289",
@@ -2598,7 +2598,7 @@
     "weird_prior": "Land restitution procedures, Livelihood retraining",
     "impediment": "Enclosure of traditional pastoral land and forced livelihood displacement",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0290",
@@ -2607,7 +2607,7 @@
     "weird_prior": "International remittance services, Migrant income protection",
     "impediment": "War-disrupted international remittances and household dependency",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0291",
@@ -2616,7 +2616,7 @@
     "weird_prior": "Transboundary water agreements, Independent dispute resolution",
     "impediment": "Transborder water diversion and lack of legal recourse",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0292",
@@ -2625,7 +2625,7 @@
     "weird_prior": "Open internet access, Independent information services",
     "impediment": "State information isolation and censorship",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0293",
@@ -2652,7 +2652,7 @@
     "weird_prior": "Collective land consultation, Indigenous legal representation",
     "impediment": "Communal land decisions without individual legal standing",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0296",
@@ -2661,7 +2661,7 @@
     "weird_prior": "Traditional land-use permits, Indigenous rights proceedings",
     "impediment": "Conservation land-use restrictions on Indigenous practice",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0297",
@@ -2679,7 +2679,7 @@
     "weird_prior": "Independent child-welfare review, Indigenous family advocacy",
     "impediment": "State child removal and resulting institutional distrust",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0299",
@@ -2688,7 +2688,7 @@
     "weird_prior": "Indigenous land-rights proceedings, Development consultation",
     "impediment": "Energy development overriding Indigenous herding rights",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0300",
@@ -2724,7 +2724,7 @@
     "weird_prior": "Civil documentation services, Alternative identity verification",
     "impediment": "State collapse and impossible government-document requirements",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0304",
@@ -2742,7 +2742,7 @@
     "weird_prior": "Deposit protection, Stable-value financial services",
     "impediment": "Repeated hyperinflation and destruction of financial security",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0306",
@@ -2751,7 +2751,7 @@
     "weird_prior": "Affordable agricultural inputs, Smallholder credit",
     "impediment": "Capital-Intensity Barrier",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0307",
@@ -2769,7 +2769,7 @@
     "weird_prior": "Deposit recovery procedures, Financial compensation schemes",
     "impediment": "Bank deposit restrictions and financial-system collapse",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0309",
@@ -2778,7 +2778,7 @@
     "weird_prior": "Durable refugee settlement, Camp education services",
     "impediment": "Protracted refugee-camp confinement and uncertain future pathways",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0310",
@@ -2796,7 +2796,7 @@
     "weird_prior": "Missing-person investigation, Truth and accountability procedures",
     "impediment": "Enforced disappearance and inaccessible truth or accountability",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0312",
@@ -2805,7 +2805,7 @@
     "weird_prior": "Gender-affirming public services, Anti-discrimination protections",
     "impediment": "Gender-identity stigma despite formal legal recognition",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0313",
@@ -2814,7 +2814,7 @@
     "weird_prior": "Confidential LGBT counseling, Youth support services",
     "impediment": "Familial sexuality stigma and absence of safe support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0314",
@@ -2823,7 +2823,7 @@
     "weird_prior": "Sexual-assault survivor care, Confidential trauma counseling",
     "impediment": "Rape stigma and honor-based barriers to disclosure",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0315",
@@ -2832,7 +2832,7 @@
     "weird_prior": "Confidential sexuality counseling, LGBT peer-support services",
     "impediment": "Compulsory heterosexuality and silencing of bisexual identity",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0316",
@@ -2841,7 +2841,7 @@
     "weird_prior": "Divorce proceedings, Child custody legal assistance",
     "impediment": "Divorce and custody restrictions trapping women in marriage",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0317",
@@ -2859,7 +2859,7 @@
     "weird_prior": "Emergency obstetric care, Reproductive-rights legal assistance",
     "impediment": "Abortion criminalization obstructing emergency pregnancy care",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0319",
@@ -2868,7 +2868,7 @@
     "weird_prior": "Specialist pregnancy care, Cross-border treatment assistance",
     "impediment": "Termination restrictions and unaffordable cross-border care",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0320",
@@ -2886,7 +2886,7 @@
     "weird_prior": "Oncology treatment, Independent patient advocacy",
     "impediment": "Pregnancy-related legal restrictions on cancer treatment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0322",
@@ -2904,7 +2904,7 @@
     "weird_prior": "Confidential reproductive counseling, Protection from reproductive coercion",
     "impediment": "Patriarchal son preference and coerced reproductive decisions",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0324",
@@ -2913,7 +2913,7 @@
     "weird_prior": "Reproductive-rights redress, Survivor counseling",
     "impediment": "State-coerced sterilization and loss of reproductive autonomy",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0325",
@@ -2922,7 +2922,7 @@
     "weird_prior": "Family income assistance, Accessible child healthcare",
     "impediment": "Household economic dependency constraining exit from sex work",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0326",
@@ -2940,7 +2940,7 @@
     "weird_prior": "Confidential worker support, Family financial assistance",
     "impediment": "Familial stigma and concealment of sexual-content work",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0328",
@@ -2949,7 +2949,7 @@
     "weird_prior": "Anti-discrimination protections, Confidential family support",
     "impediment": "Sex-work stigma threatening family social inclusion",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0329",
@@ -2958,7 +2958,7 @@
     "weird_prior": "Asylum representation, Fair credibility assessment",
     "impediment": "Sexuality criminalization and stereotyped asylum credibility assessment",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0330",
@@ -2967,7 +2967,7 @@
     "weird_prior": "Criminal defense assistance, LGBT protection services",
     "impediment": "Anti-LGBT criminalization and fear of arrest",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0331",
@@ -2994,7 +2994,7 @@
     "weird_prior": "LGBT legal assistance, Safe migration pathways",
     "impediment": "Anti-LGBT legislation and unsafe residence",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0334",
@@ -3003,7 +3003,7 @@
     "weird_prior": "Military legal defense, Anti-discrimination proceedings",
     "impediment": "Criminalization of same-sex conduct in military service",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0335",
@@ -3012,7 +3012,7 @@
     "weird_prior": "Migrant visa transfer, Consular assistance",
     "impediment": "Employer-tied migrant status and restricted job change or exit",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0336",
@@ -3021,7 +3021,7 @@
     "weird_prior": "Informal-worker registration, Occupational protection schemes",
     "impediment": "Non-recognition of informal recycling labor",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0337",
@@ -3030,7 +3030,7 @@
     "weird_prior": "Income protection schemes, Affordable vehicle finance",
     "impediment": "Daily vehicle-rental debt and absence of income protection",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0338",
@@ -3039,7 +3039,7 @@
     "weird_prior": "Workers' compensation, Employment status recognition",
     "impediment": "Unrecognized employment and exclusion from injury compensation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0339",
@@ -3048,7 +3048,7 @@
     "weird_prior": "Manual scavenging rehabilitation scheme, Alternative employment",
     "impediment": "Intergenerational caste-based labor role assignment",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0340",
@@ -3057,7 +3057,7 @@
     "weird_prior": "Government emergency aid, Relocation services",
     "impediment": "Permanent-address eligibility rules excluding flood-displaced households",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0341",
@@ -3066,7 +3066,7 @@
     "weird_prior": "Fisheries ministry complaint, Legal recourse",
     "impediment": "State-sanctioned foreign industrial fishing concessions",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0342",
@@ -3084,7 +3084,7 @@
     "weird_prior": "Aadhaar biometric authentication, Ration card office",
     "impediment": "Biometric-only entitlement rules excluding worn fingerprints",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0344",
@@ -3093,7 +3093,7 @@
     "weird_prior": "UNHCR camp registration appeal, Food assistance registry",
     "impediment": "Erroneous biometric registration without an effective correction pathway",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0345",
@@ -3111,7 +3111,7 @@
     "weird_prior": "Labor standards inspector, Police protection",
     "impediment": "Undocumented status and threat of immediate deportation",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0347",
@@ -3129,7 +3129,7 @@
     "weird_prior": "Conservation NGO complaint, Land rights court",
     "impediment": "State-enforced conservation displacement",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0349",
@@ -3138,7 +3138,7 @@
     "weird_prior": "Indigenous rights lawsuit, Humanitarian food aid",
     "impediment": "National park conservation hunting ban",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0350",
@@ -3147,7 +3147,7 @@
     "weird_prior": "Death certificate application, State inheritance registry",
     "impediment": "Adversarial death certificate state liability clause",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0351",
@@ -3156,7 +3156,7 @@
     "weird_prior": "Embassy birth registration, Citizenship registry",
     "impediment": "Descent-based citizenship & deportation risk",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0352",
@@ -3165,7 +3165,7 @@
     "weird_prior": "Naturalization application, Legal residency petition",
     "impediment": "Irregular childhood residence naturalization exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0353",
@@ -3174,7 +3174,7 @@
     "weird_prior": "Statelessness protection registry, Legal aid",
     "impediment": "Statelessness safeguards undocumented exclusion",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0354",
@@ -3183,7 +3183,7 @@
     "weird_prior": "Eldercare services, Social worker visits",
     "impediment": "Rural elder isolation and inaccessible everyday support",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0355",
@@ -3192,7 +3192,7 @@
     "weird_prior": "Marital property division, Civil court",
     "impediment": "Gendered solo-care burden and constrained marital recourse",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0356",
@@ -3201,7 +3201,7 @@
     "weird_prior": "Individual counseling, Family mediation",
     "impediment": "Confucian parental marriage expectations",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0357",
@@ -3210,7 +3210,7 @@
     "weird_prior": "Open market advertisement, Small business loan",
     "impediment": "Criminalized VPN operation digital surveillance",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0358",
@@ -3219,7 +3219,7 @@
     "weird_prior": "Physiological adjustment, Assistive home modifications",
     "impediment": "Unfamiliar sanitation design and learned bodily adaptation",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0359",
@@ -3228,7 +3228,7 @@
     "weird_prior": "Elderly care, Social services",
     "impediment": "Rural elder isolation following family urban migration",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0360",
@@ -3246,7 +3246,7 @@
     "weird_prior": "HR complaint, Legal recourse",
     "impediment": "Patriarchal corporate norms",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0362",
@@ -3255,7 +3255,7 @@
     "weird_prior": "Eating disorder clinic, Therapy",
     "impediment": "Institutionalized hyper-thinness norms",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0363",
@@ -3264,7 +3264,7 @@
     "weird_prior": "Domestic abuse shelter, Legal aid",
     "impediment": "Divorce stigma and familial rejection after domestic abuse",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0364",
@@ -3282,7 +3282,7 @@
     "weird_prior": "Workplace union, Mental health hotline",
     "impediment": "Institutionalized shift fatigue culture",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0366",
@@ -3291,7 +3291,7 @@
     "weird_prior": "Integration program, Social services",
     "impediment": "Cultural spatial/social shock",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0367",
@@ -3309,7 +3309,7 @@
     "weird_prior": "Travel visa, Family reunification",
     "impediment": "Martial law border restrictions",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0369",
@@ -3318,7 +3318,7 @@
     "weird_prior": "Housing assistance, Language courses",
     "impediment": "Language and document barriers to accessing resettlement services",
     "category": "Personal",
-    "subtype": "Skill/Literacy"
+    "subtype": "Skill & Literacy"
   },
   {
     "id": "entry_0370",
@@ -3327,7 +3327,7 @@
     "weird_prior": "Council housing, Transition support",
     "impediment": "Statutory child welfare age cut-off",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0371",
@@ -3336,7 +3336,7 @@
     "weird_prior": "Windrush compensation, NHS access",
     "impediment": "Home Office Hostile Environment policy",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0372",
@@ -3345,7 +3345,7 @@
     "weird_prior": "Psychiatric clinic, Social worker",
     "impediment": "Culturally inaccessible mental healthcare and family-reputation stigma",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0373",
@@ -3354,7 +3354,7 @@
     "weird_prior": "Employment tribunal, Visa change",
     "impediment": "Employer-tied visa sponsorship",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0374",
@@ -3363,7 +3363,7 @@
     "weird_prior": "Birth certificate, Public school",
     "impediment": "Intergenerational statelessness",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0375",
@@ -3381,7 +3381,7 @@
     "weird_prior": "Emergency medical care, Food assistance",
     "impediment": "Immigration enforcement fear blocking institutional access",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0377",
@@ -3390,7 +3390,7 @@
     "weird_prior": "Child care plan, Power of attorney",
     "impediment": "Parental deportation threat and mixed-status family insecurity",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0378",
@@ -3399,7 +3399,7 @@
     "weird_prior": "Emergency room, Pediatric clinic",
     "impediment": "Parental immigration-enforcement fear disrupting children's healthcare",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0379",
@@ -3417,7 +3417,7 @@
     "weird_prior": "Sami language courses, Cultural learning centers",
     "impediment": "State assimilation and disruption of ancestral language transmission",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0381",
@@ -3426,7 +3426,7 @@
     "weird_prior": "Sami registry, Indigenous community",
     "impediment": "Community authenticity gatekeeping and exclusion of urban Indigenous identity",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0382",
@@ -3435,7 +3435,7 @@
     "weird_prior": "Emergency shelter, Medical care",
     "impediment": "Rejected asylum and irregular status without a safe return option",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0383",
@@ -3462,7 +3462,7 @@
     "weird_prior": "Permanent residency, Family visa",
     "impediment": "Frozen residence-status review and indefinite family uncertainty",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0386",
@@ -3471,7 +3471,7 @@
     "weird_prior": "Eldercare service, Pension support",
     "impediment": "Low migrant-worker pension and weakened support across countries",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0387",
@@ -3480,7 +3480,7 @@
     "weird_prior": "Police report, Emergency care",
     "impediment": "Irregular status and unsafe access to police protection",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0388",
@@ -3489,7 +3489,7 @@
     "weird_prior": "Caseworker transition, Student permit",
     "impediment": "State care age 18 exit",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0389",
@@ -3498,7 +3498,7 @@
     "weird_prior": "Anti-discrimination commission, Police",
     "impediment": "Anti-LGBT political repression and unsafe public identity",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0390",
@@ -3507,7 +3507,7 @@
     "weird_prior": "Asylum appeal, Resettlement program",
     "impediment": "Indefinite offshore mandatory detention",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0391",
@@ -3525,7 +3525,7 @@
     "weird_prior": "Kinship care, Social worker",
     "impediment": "Disproportionate Indigenous child removal and care-to-justice pathway",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0393",
@@ -3534,7 +3534,7 @@
     "weird_prior": "Vocational training, Social security",
     "impediment": "Structural unemployment and absent local livelihood pathways",
     "category": "Environmental",
-    "subtype": "Economic/Macro"
+    "subtype": "Economic & Macro"
   },
   {
     "id": "entry_0394",
@@ -3552,7 +3552,7 @@
     "weird_prior": "Reparations application, Archival records assistance",
     "impediment": "Adversarial documentary requirements",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0396",
@@ -3561,7 +3561,7 @@
     "weird_prior": "Stable address registration, Landlord appeal",
     "impediment": "Ex-prisoner rental discrimination",
     "category": "Social",
-    "subtype": "Social Norms/Hierarchies"
+    "subtype": "Social Norms & Hierarchies"
   },
   {
     "id": "entry_0397",
@@ -3570,7 +3570,7 @@
     "weird_prior": "Redress scheme, Counseling",
     "impediment": "Obstructive abuse-redress procedures and missing institutional records",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0398",
@@ -3579,7 +3579,7 @@
     "weird_prior": "Whanau connection, Indigenous service",
     "impediment": "State assimilation and forced interruption of cultural transmission",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0399",
@@ -3588,7 +3588,7 @@
     "weird_prior": "Immigration New Zealand, Alternative work",
     "impediment": "Recruitment fraud and complaint-linked visa insecurity",
     "category": "Social",
-    "subtype": "Public Policy & Law"
+    "subtype": "Public Policies & Law"
   },
   {
     "id": "entry_0400",

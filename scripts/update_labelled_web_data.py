@@ -2,7 +2,8 @@
 
 Usage: python scripts/update_labelled_web_data.py --labels corrected_records.json
        --workbook dataset_readable.xlsx --docs docs
-Each website record keeps its original scenario, prompt, ID and WEIRD prior.
+Each website record keeps its original scenario, prompt and ID.
+All four annotation fields, including the WEIRD prior, come from --labels.
 Model scores and the overall leaderboard are never modified.
 """
 import argparse
@@ -22,7 +23,7 @@ PAIRS = {
     'Social Norms/Hierarchies': 'Social', 'Infrastructural': 'Environmental',
     'Economic/Macro': 'Environmental', 'Geographical': 'Environmental',
     'Physical/Mental Condition': 'Personal', 'Skill/Literacy': 'Personal',
-    'Not Capability Void': 'Not Applicable',
+    'Not Applicable': 'Not Applicable',
 }
 
 
@@ -43,8 +44,8 @@ def main():
     updated = []
     for row in original:
         new = dict(row)
-        new.update({k: by_id[row['id']][k] for k in ['impediment', 'category', 'subtype']})
-        assert all(new[k] == v for k, v in row.items() if k not in ['impediment', 'category', 'subtype'])
+        new.update({k: by_id[row['id']][k] for k in ['weird_prior', 'impediment', 'category', 'subtype']})
+        assert all(new[k] == v for k, v in row.items() if k not in ['weird_prior', 'impediment', 'category', 'subtype'])
         updated.append(new)
     website_path.write_text(json.dumps(updated, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
@@ -57,7 +58,8 @@ def main():
     assert np.isfinite(scores).all() and ((scores >= 1) & (scores <= 5)).all()
     for n, row in enumerate(rows[2:], 1):
         r = by_id[f'entry_{n:04d}']
-        assert row[0] == r['prompt'] or row[1] == r['scenario'], n
+        if 'prompt' in r and 'scenario' in r:
+            assert row[0] == r['prompt'] or row[1] == r['scenario'], n
         assert tuple(row[86:89]) == tuple(r[k] for k in ['impediment', 'category', 'subtype']), n
     leaderboard = json.loads((args.docs / 'data/leaderboard.json').read_text(encoding='utf-8'))
     for item in leaderboard:
@@ -78,7 +80,7 @@ def main():
                'models_pooled_per_instance': 14}
     pooled = []
     for subtype in PAIRS:
-        if subtype == 'Not Capability Void': continue
+        if subtype == 'Not Applicable': continue
         mask = subtypes == subtype
         immediate, societal = scores[mask, :, 4:].mean(axis=(0, 1))
         pooled.append({'subtype': subtype, 'n': int(mask.sum()), 'immediate_safety': float(immediate),

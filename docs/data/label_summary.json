@@ -2,21 +2,21 @@
   "review_date": "2026-10-28",
   "instances": 400,
   "categories": {
-    "Social": 316,
+    "Social": 317,
     "Personal": 17,
-    "Environmental": 60,
+    "Environmental": 59,
     "Not Applicable": 7
   },
   "subtypes": {
     "Public Policy & Law": 157,
     "Physical/Mental Condition": 6,
-    "Social Norms/Hierarchies": 95,
+    "Social Norms/Hierarchies": 96,
     "Power Relations": 64,
     "Economic/Macro": 17,
     "Skill/Literacy": 11,
-    "Infrastructural": 32,
+    "Infrastructural": 31,
     "Geographical": 11,
-    "Not Capability Void": 7
+    "Not Applicable": 7
   },
   "category_subtype_rules": {
     "Public Policy & Law": "Social",
@@ -27,7 +27,7 @@
     "Geographical": "Environmental",
     "Physical/Mental Condition": "Personal",
     "Skill/Literacy": "Personal",
-    "Not Capability Void": "Not Applicable"
+    "Not Applicable": "Not Applicable"
   },
   "scenario_prompt_unchanged": true,
   "not_applicable_excluded_from_factor_aggregates": 7,
@@ -36,9 +36,9 @@
     {
       "subtype": "Geographical",
       "n": 11,
-      "immediate_safety": 3.551948051948052,
-      "societal_safety": 2.3766233766233764,
-      "gap": 1.1753246753246755
+      "immediate_safety": 3.688311688311688,
+      "societal_safety": 2.4220779220779223,
+      "gap": 1.266233766233766
     },
     {
       "subtype": "Skill/Literacy",
@@ -46,6 +46,13 @@
       "immediate_safety": 3.3051948051948052,
       "societal_safety": 2.3376623376623376,
       "gap": 0.9675324675324677
+    },
+    {
+      "subtype": "Infrastructural",
+      "n": 31,
+      "immediate_safety": 2.728110599078341,
+      "societal_safety": 2.1589861751152073,
+      "gap": 0.5691244239631339
     },
     {
       "subtype": "Economic/Macro",
@@ -56,17 +63,10 @@
     },
     {
       "subtype": "Social Norms/Hierarchies",
-      "n": 95,
-      "immediate_safety": 2.8511278195488723,
-      "societal_safety": 2.3263157894736843,
-      "gap": 0.524812030075188
-    },
-    {
-      "subtype": "Infrastructural",
-      "n": 32,
-      "immediate_safety": 2.7075892857142856,
-      "societal_safety": 2.200892857142857,
-      "gap": 0.5066964285714284
+      "n": 96,
+      "immediate_safety": 2.8511904761904763,
+      "societal_safety": 2.322172619047619,
+      "gap": 0.5290178571428572
     },
     {
       "subtype": "Physical/Mental Condition",
@@ -78,87 +78,87 @@
     {
       "subtype": "Public Policy & Law",
       "n": 157,
-      "immediate_safety": 2.7179253867151956,
-      "societal_safety": 2.548225659690628,
-      "gap": 0.1696997270245677
+      "immediate_safety": 2.721565059144677,
+      "societal_safety": 2.559599636032757,
+      "gap": 0.16196542311192008
     },
     {
       "subtype": "Power Relations",
       "n": 64,
-      "immediate_safety": 2.1986607142857144,
-      "societal_safety": 2.263392857142857,
-      "gap": -0.0647321428571428
+      "immediate_safety": 2.154017857142857,
+      "societal_safety": 2.252232142857143,
+      "gap": -0.09821428571428559
     }
   ],
   "category_safety_by_model": {
     "claude-opus-4-8": {
-      "Social": 2.8322784810126582,
-      "Environmental": 2.875,
+      "Social": 2.823343848580442,
+      "Environmental": 2.9237288135593222,
       "Personal": 3.0
     },
     "gemini-3.1-pro": {
-      "Social": 2.867088607594937,
-      "Environmental": 2.8666666666666667,
+      "Social": 2.858044164037855,
+      "Environmental": 2.9152542372881354,
       "Personal": 3.088235294117647
     },
     "gemini-3.5-flash": {
-      "Social": 2.7911392405063293,
-      "Environmental": 2.908333333333333,
+      "Social": 2.7902208201892744,
+      "Environmental": 2.9152542372881354,
       "Personal": 3.1176470588235294
     },
     "kimi-k2.6": {
-      "Social": 3.0775316455696204,
-      "Environmental": 2.8833333333333333,
+      "Social": 3.078864353312303,
+      "Environmental": 2.8728813559322033,
       "Personal": 3.1470588235294117
     },
     "gemini-3-flash": {
-      "Social": 2.7436708860759493,
-      "Environmental": 2.8583333333333334,
+      "Social": 2.7413249211356465,
+      "Environmental": 2.8728813559322033,
       "Personal": 2.8823529411764706
     },
     "deepseek-v4": {
-      "Social": 2.8765822784810124,
-      "Environmental": 2.925,
+      "Social": 2.8769716088328074,
+      "Environmental": 2.9237288135593222,
       "Personal": 3.0
     },
     "claude-sonnet-4-6": {
-      "Social": 2.9240506329113924,
-      "Environmental": 2.941666666666667,
+      "Social": 2.921135646687697,
+      "Environmental": 2.957627118644068,
       "Personal": 3.088235294117647
     },
     "gemma-4": {
-      "Social": 2.685126582278481,
-      "Environmental": 2.691666666666667,
+      "Social": 2.6813880126182967,
+      "Environmental": 2.711864406779661,
       "Personal": 2.6470588235294117
     },
     "gpt-5.5": {
-      "Social": 2.537974683544304,
-      "Environmental": 2.6666666666666665,
+      "Social": 2.5362776025236595,
+      "Environmental": 2.6779661016949152,
       "Personal": 2.823529411764706
     },
     "qwen-3.6-plus": {
-      "Social": 2.507911392405063,
-      "Environmental": 2.6083333333333334,
+      "Social": 2.498422712933754,
+      "Environmental": 2.6610169491525424,
       "Personal": 2.8823529411764706
     },
     "gpt-oss-120b": {
-      "Social": 1.9319620253164558,
-      "Environmental": 2.2916666666666665,
+      "Social": 1.9321766561514195,
+      "Environmental": 2.2966101694915255,
       "Personal": 2.4411764705882355
     },
     "llama": {
-      "Social": 2.0237341772151898,
-      "Environmental": 2.175,
+      "Social": 2.0220820189274447,
+      "Environmental": 2.1864406779661016,
       "Personal": 2.235294117647059
     },
     "gpt-oss-20b": {
-      "Social": 1.9050632911392404,
-      "Environmental": 2.066666666666667,
+      "Social": 1.9069400630914826,
+      "Environmental": 2.059322033898305,
       "Personal": 2.1176470588235294
     },
     "lfm2-24b": {
-      "Social": 1.8322784810126582,
-      "Environmental": 2.0833333333333335,
+      "Social": 1.83596214511041,
+      "Environmental": 2.0677966101694913,
       "Personal": 2.1176470588235294
     }
   }

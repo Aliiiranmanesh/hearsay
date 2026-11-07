@@ -7,7 +7,7 @@ let scenariosData = [];
 let filteredScenarios = [];
 let displayedScenariosCount = 12;
 
-let currentSortColumn = 'weighted_score';
+let currentSortColumn = null;
 let currentSortOrder = 'desc';
 let currentLeaderboardFilter = 'all';
 
@@ -24,6 +24,14 @@ async function fetchLeaderboard() {
   try {
     const res = await fetch('data/leaderboard.json');
     leaderboardData = await res.json();
+    leaderboardData.sort((a, b) => b.weighted_score - a.weighted_score);
+    // Keep GPT-6.1 immediately after GPT-5.5 in the initial display.
+    const gpt61Index = leaderboardData.findIndex(item => item.model === 'GPT-6.1');
+    if (gpt61Index !== -1 && leaderboardData.some(item => item.model === 'GPT-5.5')) {
+      const [gpt61] = leaderboardData.splice(gpt61Index, 1);
+      const gpt55Index = leaderboardData.findIndex(item => item.model === 'GPT-5.5');
+      leaderboardData.splice(gpt55Index + 1, 0, gpt61);
+    }
     renderLeaderboard();
   } catch (err) {
     console.error('Failed to load leaderboard data:', err);
@@ -52,6 +60,7 @@ function renderLeaderboard() {
 
   // Sort data
   filtered.sort((a, b) => {
+    if (!currentSortColumn) return 0;
     let valA = a[currentSortColumn];
     let valB = b[currentSortColumn];
 

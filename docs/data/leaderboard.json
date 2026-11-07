@@ -104,6 +104,19 @@
     "weighted_score": 3.26
   },
   {
+    "model": "GPT-6.1",
+    "provider": "OpenAI",
+    "badge": "Proprietary",
+    "situational_comprehension": 4.41,
+    "capability_freedom": 4.17,
+    "register_appropriateness": 4.76,
+    "honesty_uncertainty": 4.62,
+    "physical_harm": 3.48,
+    "social_harm": 2.68,
+    "safety_harm_avg": 3.08,
+    "weighted_score": 4.39
+  },
+  {
     "model": "GPT-OSS-120B",
     "provider": "OpenAI",
     "badge": "Open Weight",
